@@ -1,0 +1,2612 @@
+
+PMID- 35843291
+OWN - NLM
+STAT- Publisher
+LR  - 20220804
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 193
+DP  - 2022 Jul 16
+TI  - Changes in metabolic profiling of whiteleg shrimp (Penaeus vannamei) under
+      hypoxic stress.
+PG  - 107798
+LID - S0022-2011(22)00083-0 [pii]
+LID - 10.1016/j.jip.2022.107798 [doi]
+AB  - Hypoxia is a common concern in shrimp aquaculture, affecting growth and survival.
+      Although recent studies have revealed important insights into hypoxia in shrimp
+      and crustaceans, knowledge gaps remain regarding this stressor at the molecular
+      level. In the present study, a gas chromatography-mass spectrometry (GC-MS)-based
+      metabolomics approach was employed to characterize the metabolic signatures and
+      pathways underlying responses of Pacific white shrimp (Penaeus vannamei) to
+      hypoxia and to identify associated candidate biomarkers. We compared metabolite
+      profiles of shrimp haemolymph before (0 h) and after exposure to hypoxia (1 & 2
+      h). Dissolved oxygen levels were maintained above 85 % saturation in the control 
+      and before hypoxia, and 15 % saturation in the hypoxic stress treatment. Results 
+      showed 44 metabolites in shrimp haemolymph that were significantly different
+      between before and after hypoxia exposure. These metabolites were energy-related 
+      metabolites (e.g., intermediates of citric acid cycle, lactic acid, alanine),
+      fatty acids and amino acids. Pathway analysis revealed 17 pathways that were
+      significantly affected by hypoxia. The changes in metabolites and pathways
+      indicate a shift from aerobic to anaerobic metabolism, disturbance in amino acid 
+      metabolism, osmoregulation, oxidative damage and Warburg effect-like response
+      caused by hypoxic stress. Among the altered metabolites, lactic acid was most
+      different between before and after hypoxia exposure and had the highest accurate 
+      value for biomarker identification. Future investigations may validate this
+      molecule as a stress biomarker in aquaculture. This study contributes to a better
+      understanding of hypoxia in shrimp and crustaceans at the metabolic level and
+      provides a base for future metabolomics investigations on hypoxia.
+CI  - Copyright (c) 2022 Elsevier Inc. All rights reserved.
+FAU - Nguyen, Thao V
+AU  - Nguyen TV
+AD  - NTT Hi-Tech Institute, Nguyen Tat Thanh University, Ho Chi Minh City, Viet Nam;
+      Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand. Electronic address: nvthao@ntt.edu.vn.
+FAU - Alfaro, Andrea C
+AU  - Alfaro AC
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand. Electronic address:
+      andrea.alfaro@aut.ac.nz.
+FAU - Rodriguez, Jenny
+AU  - Rodriguez J
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador. Electronic address:
+      jenrodri@espol.edu.ec.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador. Electronic address: bbayot@espol.edu.ec.
+FAU - Sonnenholzner, Stanislaus
+AU  - Sonnenholzner S
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador. Electronic address:
+      ssonnen@espol.edu.ec.
+LA  - eng
+PT  - Journal Article
+DEP - 20220716
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+OTO - NOTNLM
+OT  - Aquaculture
+OT  - GC-MS
+OT  - Hypoxia
+OT  - Lactic acid
+OT  - Metabolomics
+OT  - Oxygen managment
+OT  - Penaeus vannamei
+OT  - Stress biomarkers
+OT  - Warburg effect-like effect
+OT  - Whiteleg shrimp
+EDAT- 2022/07/18 06:00
+MHDA- 2022/07/18 06:00
+CRDT- 2022/07/17 19:23
+PHST- 2022/03/28 00:00 [received]
+PHST- 2022/06/13 00:00 [revised]
+PHST- 2022/07/11 00:00 [accepted]
+PHST- 2022/07/18 06:00 [pubmed]
+PHST- 2022/07/18 06:00 [medline]
+PHST- 2022/07/17 19:23 [entrez]
+AID - S0022-2011(22)00083-0 [pii]
+AID - 10.1016/j.jip.2022.107798 [doi]
+PST - aheadofprint
+SO  - J Invertebr Pathol. 2022 Jul 16;193:107798. doi: 10.1016/j.jip.2022.107798.
+
+PMID- 35615516
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 1664-302X (Print)
+IS  - 1664-302X (Linking)
+VI  - 13
+DP  - 2022
+TI  - Microbiome of Penaeus vannamei Larvae and Potential Biomarkers Associated With
+      High and Low Survival in Shrimp Hatchery Tanks Affected by Acute Hepatopancreatic
+      Necrosis Disease.
+PG  - 838640
+LID - 10.3389/fmicb.2022.838640 [doi]
+AB  - Acute hepatopancreatic necrosis disease (AHPND) is an emerging bacterial disease 
+      of cultured shrimp caused mainly by Vibrio parahaemolyticus, which harbors the
+      lethal PirAB toxin genes. Although Penaeus vannamei (P. vannamei) postlarvae are 
+      susceptible to AHPND, the changes in the bacterial communities through the larval
+      stages affected by the disease are unknown. We characterized, through
+      high-throughput sequencing, the microbiome of P. vannamei larvae infected with
+      AHPND-causing bacteria through the larval stages and compared the microbiome of
+      larvae collected from high- and low-survival tanks. A total of 64 tanks from a
+      commercial hatchery were sampled at mysis 3, postlarvae 4, postlarvae 7, and
+      postlarvae 10 stages. PirAB toxin genes were detected by PCR and confirmed by
+      histopathology analysis in 58 tanks. Seven from the 58 AHPND-positive tanks
+      exhibited a survival rate higher than 60% at harvest, despite the AHPND
+      affectation, being selected for further analysis, whereas 51 tanks exhibited
+      survival rates lower than 60%. A random sample of 7 out of these 51
+      AHPND-positive tanks was also selected. Samples collected from the selected tanks
+      were processed for the microbiome analysis. The V3-V4 hypervariable regions of
+      the 16S ribosomal RNA (rRNA) gene of the samples collected from both the groups
+      were sequenced. The Shannon diversity index was significantly lower at the
+      low-survival tanks. The microbiomes were significantly different between high-
+      and low-survival tanks at M3, PL4, PL7, but not at PL10. Differential abundance
+      analysis determined that biomarkers associated with high and low survival in
+      shrimp hatchery tanks affected with AHPND. The genera Bacillus, Vibrio, Yangia,
+      Roseobacter, Tenacibaculum, Bdellovibrio, Mameliella, and Cognatishimia, among
+      others, were enriched in the high-survival tanks. On the other hand, Gilvibacter,
+      Marinibacterium, Spongiimonas, Catenococcus, and Sneathiella, among others, were 
+      enriched in the low-survival tanks. The results can be used to develop
+      applications to prevent losses in shrimp hatchery tanks affected by AHPND.
+CI  - Copyright (c) 2022 Reyes, Betancourt, Andrade, Panchana, Roman, Sorroza, Trujillo
+      and Bayot.
+FAU - Reyes, Guillermo
+AU  - Reyes G
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+AD  - Facultad de Ciencias de la Vida (FCV), Escuela Superior Politecnica del Litoral
+      (ESPOL), Guayaquil, Ecuador.
+FAU - Betancourt, Irma
+AU  - Betancourt I
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+FAU - Andrade, Betsy
+AU  - Andrade B
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+FAU - Panchana, Fanny
+AU  - Panchana F
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+FAU - Roman, Ruben
+AU  - Roman R
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+FAU - Sorroza, Lita
+AU  - Sorroza L
+AD  - Facultad de Ciencias Agropecuarias, Universidad Tecnica de Machala, Machala,
+      Ecuador.
+FAU - Trujillo, Luis E
+AU  - Trujillo LE
+AD  - Industrial Biotechnology Research Group, Center for Nanoscience and
+      Nanotechnology (CENCINAT), Universidad de las Fuerzas Armadas (ESPE), Sangolqui, 
+      Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Centro Nacional de Acuicultura e Investigaciones Marinas (CENAIM), Escuela
+      Superior Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+AD  - Facultad de Ingenieria Maritima y Ciencias del Mar (FIMCM), Escuela Superior
+      Politecnica del Litoral (ESPOL), Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20220509
+PL  - Switzerland
+TA  - Front Microbiol
+JT  - Frontiers in microbiology
+JID - 101548977
+PMC - PMC9125206
+OTO - NOTNLM
+OT  - 16S rRNA gene
+OT  - AHPND
+OT  - Penaeus vannamei larvae
+OT  - biomarkers
+OT  - differential abundance
+OT  - microbiome
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2022/05/27 06:00
+MHDA- 2022/05/27 06:01
+CRDT- 2022/05/26 02:26
+PHST- 2021/12/18 00:00 [received]
+PHST- 2022/03/21 00:00 [accepted]
+PHST- 2022/05/26 02:26 [entrez]
+PHST- 2022/05/27 06:00 [pubmed]
+PHST- 2022/05/27 06:01 [medline]
+AID - 10.3389/fmicb.2022.838640 [doi]
+PST - epublish
+SO  - Front Microbiol. 2022 May 9;13:838640. doi: 10.3389/fmicb.2022.838640.
+      eCollection 2022.
+
+PMID- 35297684
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2576-098X (Electronic)
+IS  - 2576-098X (Linking)
+VI  - 11
+IP  - 4
+DP  - 2022 Apr 21
+TI  - Complete Coding Genome Sequence of Infectious Hypodermal and Hematopoietic
+      Necrosis Virus Isolated from Penaeus (Litopenaeus) vannamei Shrimp in Ecuador.
+PG  - e0114321
+LID - 10.1128/mra.01143-21 [doi]
+AB  - Infectious hypodermal and hematopoietic necrosis virus (IHHNV), recognized as
+      Penaeus stylirostris penstyldensovirus 1 (PstDV1), has been associated with the
+      runt-deformity syndrome (RDS) in cultured Penaeus (Litopenaeus) vannamei and
+      Penaeus monodon shrimp. Here, we report the second published genome sequence of
+      IHHNV, which was isolated from P. vannamei shrimp cultured in Ecuador.
+FAU - Bajana, Leandro
+AU  - Bajana L
+AD  - Escuela Superior Politecnica del Litoral, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, Facultad de Ciencias de la Vida,
+      Guayaquil, Ecuador.
+FAU - Betancourt, Irma
+AU  - Betancourt I
+AD  - Escuela Superior Politecnica del Litoral, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, Guayaquil, Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AUID- ORCID: 0000-0003-1917-8557
+AD  - Escuela Superior Politecnica del Litoral, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, Facultad de Ingenieria Maritima y
+      Ciencias del Mar, Guayaquil, Ecuador.
+LA  - eng
+GR  - PIC-14-CENAIM-003/Secretaria de Educacion Superior, Ciencia, Tecnologia e
+      Innovacion (SENESCYT)
+PT  - Journal Article
+DEP - 20220317
+PL  - United States
+TA  - Microbiol Resour Announc
+JT  - Microbiology resource announcements
+JID - 101728794
+PMC - PMC9022545
+EDAT- 2022/03/18 06:00
+MHDA- 2022/03/18 06:01
+CRDT- 2022/03/17 12:12
+PHST- 2022/03/18 06:00 [pubmed]
+PHST- 2022/03/18 06:01 [medline]
+PHST- 2022/03/17 12:12 [entrez]
+AID - 10.1128/mra.01143-21 [doi]
+PST - ppublish
+SO  - Microbiol Resour Announc. 2022 Apr 21;11(4):e0114321. doi: 10.1128/mra.01143-21. 
+      Epub 2022 Mar 17.
+
+PMID- 35231879
+OWN - NLM
+STAT- Publisher
+LR  - 20220322
+IS  - 1878-3252 (Electronic)
+IS  - 0946-672X (Linking)
+VI  - 71
+DP  - 2022 Feb 22
+TI  - Sources of variation in elemental profiles of whiteleg shrimp (Litopenaeus
+      vannamei) and their potential effects on the accuracy of discriminant analysis.
+PG  - 126961
+LID - S0946-672X(22)00041-4 [pii]
+LID - 10.1016/j.jtemb.2022.126961 [doi]
+AB  - BACKGROUND: Elemental profiling is a tool that has been proposed to improve the
+      traceability of seafood products. Small sources of variation can affect the
+      outcome of elemental profiling and therefore pose to lower the overall accuracy
+      of analyses. Here, we investigate two potential sources of variation through
+      three experiments: laboratory variation (intra-, interlaboratory variation, and
+      tissue matrix) and tissue variation. METHODS AND RESULTS: Samples of whitleleg
+      shrimp (Litopenaeus vannamei) were obtained from 20 farms in Ecuador and two
+      farms in Alabama to be analyzed. In the first experiment of the study, samples
+      from Ecuador were analyzed at three different laboratories and compared. Two out 
+      of the five elements reported were statistically different across the three
+      laboratories (Cu and Se). In the second experiment, the effect of tissue matrix
+      (ground vs whole tissue during acid digestion) was investigated. Altogether, five
+      out of 29 elements analyzed were statistically different. In the third
+      experiment, samples from two farms in Alabama were analyzed to understand the
+      variation in element concentrations in different tissues (head on shell on
+      (HOSO), headless shell on (HLSO), headless peeled (PLD) and headless peeled and
+      deveined (PLDV)). Elemental concentrations varied across tissues, and patterns in
+      elemental concentrations were site specific. The samples from the two farms were 
+      analyzed with a Random Forest classification model to site x tissue groupings
+      with 94% accuracy. CONCLUSION: The result of this study highlights the following:
+      1. Consistency in laboratory analysis important in studies that involve element
+      concentrations, as minor differences in methodology can propagate as significant 
+      differences in results. 2. In shrimp, elements are compartmentalized in different
+      tissues and elemental profiling should consistently use the same type of tissue.
+CI  - Copyright (c) 2022 Elsevier GmbH. All rights reserved.
+FAU - Davis, Robert
+AU  - Davis R
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences,
+      Auburn, AL, USA. Electronic address: Robert.davis.bd@gmail.com.
+FAU - Boyd, Claude
+AU  - Boyd C
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences,
+      Auburn, AL, USA.
+FAU - Gonzalez, Arturo
+AU  - Gonzalez A
+AD  - World Wildlife Fund, Guayaquil, Ecuador.
+FAU - Shatova, Olga
+AU  - Shatova O
+AD  - Oritain Global Limited, Dunedin, New Zealand.
+FAU - Wakefield, Joshua
+AU  - Wakefield J
+AD  - Oritain Global Limited, Dunedin, New Zealand.
+FAU - Harris, Blake
+AU  - Harris B
+AD  - World Wildlife Fund, Washington DC, USA.
+FAU - McNevin, Aaron
+AU  - McNevin A
+AD  - World Wildlife Fund, Washington DC, USA.
+FAU - Davis, D Allen
+AU  - Davis DA
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences,
+      Auburn, AL, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20220222
+PL  - Germany
+TA  - J Trace Elem Med Biol
+JT  - Journal of trace elements in medicine and biology : organ of the Society for
+      Minerals and Trace Elements (GMS)
+JID - 9508274
+SB  - IM
+OTO - NOTNLM
+OT  - Aquaculture
+OT  - Elemental profiling
+OT  - Trace elements
+OT  - Traceability
+EDAT- 2022/03/02 06:00
+MHDA- 2022/03/02 06:00
+CRDT- 2022/03/01 20:19
+PHST- 2021/09/21 00:00 [received]
+PHST- 2022/02/17 00:00 [revised]
+PHST- 2022/02/21 00:00 [accepted]
+PHST- 2022/03/02 06:00 [pubmed]
+PHST- 2022/03/02 06:00 [medline]
+PHST- 2022/03/01 20:19 [entrez]
+AID - S0946-672X(22)00041-4 [pii]
+AID - 10.1016/j.jtemb.2022.126961 [doi]
+PST - aheadofprint
+SO  - J Trace Elem Med Biol. 2022 Feb 22;71:126961. doi: 10.1016/j.jtemb.2022.126961.
+
+PMID- 34896292
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 1095-9947 (Electronic)
+IS  - 1050-4648 (Linking)
+VI  - 120
+DP  - 2022 Jan
+TI  - Evaluation of immune stimulatory products for whiteleg shrimp (Penaeus vannamei) 
+      by a metabolomics approach.
+PG  - 421-428
+LID - S1050-4648(21)00423-X [pii]
+LID - 10.1016/j.fsi.2021.12.007 [doi]
+AB  - The use of probiotics, prebiotics and dietary fiber has become a common practice 
+      in shrimp aquaculture as alternatives to antibiotic treatment. However, not much 
+      is known about the metabolic mechanisms underlying the effects of probiotics and 
+      immunostimulant used in shrimp aquaculture. In this study, a gas
+      chromatography-mass spectrometry (GC-MS) based metabolomics approach was used to 
+      characterize metabolite profiles of haemolymph and gills of whiteleg shrimp
+      (Penaeus vannamei) exposed to four treatments (cellulose fiber, probiotics with
+      Vibrio alginolyticus, a combination of cellulose fiber and V. alginolyticus and a
+      control treatment). The cellulose fiber was administrated as a feed additive (100
+      mgKg(-1) feed), while the probiotics was applied in the water (10(5) UFCmL(-1)
+      culture water). The results showed significant differences in haemolymph
+      metabolite profiles of immune stimulated treatments compared to the control and
+      among treatments. The combination of cellulose fiber and probiotics resulted in
+      greater differences in metabolic profiles, suggesting a better immune stimulation
+      with this approach. The changes in haemolymph metabolome of treated shrimp
+      reflected several biochemical pathway modifications, including changes in amino
+      acid and fatty acid metabolism, disturbances in energy metabolism and
+      antimicrobial activity and stress responses. For gill tissues, significant
+      differences were only found in lactic acid between the probiotic group and the
+      control. Among the altered metabolites, the increases of itaconic acid in
+      haemolymph, and lactic acid in both haemolymph and gill tissues of
+      immune-stimulated suggest the potential use of these metabolites as biomarkers
+      for health assessment in aquaculture.
+CI  - Copyright (c) 2021 Elsevier Ltd. All rights reserved.
+FAU - Alfaro, Andrea C
+AU  - Alfaro AC
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand. Electronic address:
+      andrea.alfaro@aut.ac.nz.
+FAU - Nguyen, Thao V
+AU  - Nguyen TV
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand; NTT Hi-Tech Institute, Nguyen Tat Thanh
+      University, Ho Chi Minh City, 755414, Viet Nam.
+FAU - Rodriguez, Jenny A
+AU  - Rodriguez JA
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Guayaquil, Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Guayaquil, Ecuador.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Guayaquil, Ecuador.
+FAU - Sonnenholzner, Stanislaus
+AU  - Sonnenholzner S
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Guayaquil, Ecuador.
+FAU - Azizan, Awanis
+AU  - Azizan A
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand.
+FAU - Venter, Leonie
+AU  - Venter L
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand.
+LA  - eng
+PT  - Journal Article
+DEP - 20211209
+PL  - England
+TA  - Fish Shellfish Immunol
+JT  - Fish & shellfish immunology
+JID - 9505220
+RN  - 0 (Adjuvants, Immunologic)
+RN  - 33X04XA5AT (Lactic Acid)
+RN  - 9004-34-6 (Cellulose)
+SB  - IM
+MH  - Adjuvants, Immunologic/*pharmacology
+MH  - Animals
+MH  - Aquaculture
+MH  - Cellulose
+MH  - Diet/veterinary
+MH  - Lactic Acid
+MH  - *Metabolomics
+MH  - *Penaeidae/immunology
+MH  - *Probiotics
+OTO - NOTNLM
+OT  - Cellulose fibers
+OT  - GC-MS
+OT  - Metabolomics
+OT  - Penaeus vannamei
+OT  - Probiotics
+OT  - Whiteleg shrimp
+EDAT- 2021/12/14 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2021/12/13 12:17
+PHST- 2020/09/08 00:00 [received]
+PHST- 2021/12/05 00:00 [revised]
+PHST- 2021/12/07 00:00 [accepted]
+PHST- 2021/12/14 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+PHST- 2021/12/13 12:17 [entrez]
+AID - S1050-4648(21)00423-X [pii]
+AID - 10.1016/j.fsi.2021.12.007 [doi]
+PST - ppublish
+SO  - Fish Shellfish Immunol. 2022 Jan;120:421-428. doi: 10.1016/j.fsi.2021.12.007.
+      Epub 2021 Dec 9.
+
+PMID- 34604792
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211005
+IS  - 2665-9271 (Electronic)
+IS  - 2665-9271 (Linking)
+VI  - 4
+DP  - 2021
+TI  - Trace element concentrations in white leg shrimp Litopenaeus vannamei from retail
+      stores in the EU, UK, and USA and the ability to discern country of origin with
+      classification models.
+PG  - 655-661
+LID - 10.1016/j.crfs.2021.09.004 [doi]
+AB  - Shrimp are a globally traded aquaculture commodity that accounts for a large
+      proportion of the monetary value of aquaculture. There are concerns among
+      consumers about seafood labeling fraud and environmental sustainability.
+      Therefore, the geographic origin of shrimp from retail stores was investigated
+      with trace element profiling. 94 shrimp samples were collected from grocery
+      stores across the USA, UK, and EU in 70 different grocery stores. The results of 
+      24 elements are reported. Shrimp samples were from Thailand, India, Vietnam,
+      Indonesia, and Ecuador were shown to have 15 elements that were statistically
+      different across labeled country of origin, with Ecuador having unique post hoc
+      group membership in 5 of the elements. Based on a classification procedure,
+      shrimp were classified to labeled country of origin with an overall accuracy of
+      71.2%. Overall, the results suggest that elemental profiling could be a
+      traceability tool for classifying samples of shrimp from retail stores.
+CI  - (c) 2021 The Authors.
+FAU - Davis, Robert
+AU  - Davis R
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences, 203
+      Swingle Hall, Auburn, AL, 36849, USA.
+FAU - Boyd, Claude E
+AU  - Boyd CE
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences, 203
+      Swingle Hall, Auburn, AL, 36849, USA.
+FAU - Wakefield, Joshua
+AU  - Wakefield J
+AD  - Oritain Global Limited, 167 High Street, Dunedin, 9016, New Zealand.
+FAU - Shatova, Olga
+AU  - Shatova O
+AD  - Oritain Global Limited, 167 High Street, Dunedin, 9016, New Zealand.
+FAU - McNevin, Aaron
+AU  - McNevin A
+AD  - World Wildlife Fund, 1250 24th St NW, Washington, DC, 20037, USA.
+FAU - Harris, Blake
+AU  - Harris B
+AD  - World Wildlife Fund, 1250 24th St NW, Washington, DC, 20037, USA.
+FAU - Davis, D Allen
+AU  - Davis DA
+AD  - Auburn University, School of Fisheries, Aquaculture, and Aquatic Sciences, 203
+      Swingle Hall, Auburn, AL, 36849, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20210920
+PL  - Netherlands
+TA  - Curr Res Food Sci
+JT  - Current research in food science
+JID - 101771059
+PMC - PMC8473577
+OTO - NOTNLM
+OT  - Aquaculture
+OT  - Elemental profiling
+OT  - Shrimp
+OT  - Sustainability
+OT  - Traceability
+COIS- The authors declare that they have no known competing financial interests or
+      personal relationships that could have appeared to influence the work reported in
+      this paper.
+EDAT- 2021/10/05 06:00
+MHDA- 2021/10/05 06:01
+CRDT- 2021/10/04 06:15
+PHST- 2021/04/01 00:00 [received]
+PHST- 2021/09/08 00:00 [revised]
+PHST- 2021/09/13 00:00 [accepted]
+PHST- 2021/10/04 06:15 [entrez]
+PHST- 2021/10/05 06:00 [pubmed]
+PHST- 2021/10/05 06:01 [medline]
+AID - 10.1016/j.crfs.2021.09.004 [doi]
+AID - S2665-9271(21)00067-8 [pii]
+PST - epublish
+SO  - Curr Res Food Sci. 2021 Sep 20;4:655-661. doi: 10.1016/j.crfs.2021.09.004.
+      eCollection 2021.
+
+PMID- 33845910
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210506
+LR  - 20210506
+IS  - 2049-2618 (Electronic)
+IS  - 2049-2618 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2021 Apr 12
+TI  - Microbial community characterization of shrimp survivors to AHPND challenge test 
+      treated with an effective shrimp probiotic (Vibrio diabolicus).
+PG  - 88
+LID - 10.1186/s40168-021-01043-8 [doi]
+AB  - BACKGROUND: Acute hepatopancreatic necrosis disease (AHPND) is an important
+      shrimp bacterial disease caused by some Vibrio species. The severity of the
+      impact of this disease on aquaculture worldwide has made it necessary to develop 
+      alternatives to prophylactic antibiotics use, such as the application of
+      probiotics. To assess the potential to use probiotics in order to limit the
+      detrimental effects of AHNPD, we evaluated the effect of the ILI strain, a Vibrio
+      sp. bacterium and efficient shrimp probiotic, using metabarcoding (16S rRNA gene)
+      on the gastrointestinal microbiota of shrimp after being challenged with
+      AHPND-causing V. parahaemolyticus. RESULTS: We showed how the gastrointestinal
+      microbiome of shrimp varied between healthy and infected organisms. Nevertheless,
+      a challenge of working with AHPND-causing Vibrio pathogens and Vibrio-related
+      bacteria as probiotics is the potential risk of the probiotic strain becoming
+      pathogenic. Consequently, we evaluated whether ILI strain can acquire the plasmid
+      pV-AHPND via horizontal transfer and further cause the disease in shrimp.
+      Conjugation assays were performed resulting in a high frequency (70%) of colonies
+      harboring the pv-AHPND. However, no shrimp mortality was observed when
+      transconjugant colonies of the ILI strain were used in a challenge test using
+      healthy shrimp. We sequenced the genome of the ILI strain and performed
+      comparative genomics analyses using AHPND and non-AHPND Vibrio isolates. Using
+      available phylogenetic and phylogenomics analyses, we reclassified the ILI strain
+      as Vibrio diabolicus. In summary, this work represents an effort to study the
+      role that probiotics play in the normal gastrointestinal shrimp microbiome and in
+      AHPND-infected shrimp, showing that the ILI probiotic was able to control
+      pathogenic bacterial populations in the host's gastrointestinal tract and
+      stimulate the shrimp's survival. The identification of probiotic bacterial
+      species that are effective in the host's colonization is important to promote
+      animal health and prevent disease. CONCLUSIONS: This study describes probiotic
+      bacteria capable of controlling pathogenic populations of bacteria in the shrimp 
+      gastrointestinal tract. Our work provides new insights into the complex dynamics 
+      between shrimp and the changes in the microbiota. It also addresses the practical
+      application of probiotics to solve problems with pathogens that cause high
+      mortality-rate in shrimp farming around the world. Video Abstract.
+FAU - Restrepo, Leda
+AU  - Restrepo L
+AD  - Department of Biological Sciences, Universidad de los Andes, Bogota, Colombia.
+AD  - Max Planck Tandem Group in Computational Biology, Universidad de los Andes,
+      Bogota, Colombia.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Bajana, Leandro
+AU  - Bajana L
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Betancourt, Irma
+AU  - Betancourt I
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Rodriguez, Jenny
+AU  - Rodriguez J
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ciencias de la Vida,
+      FCV, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O. Box 09-01-5863,
+      Guayaquil, Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador. bbayot@espol.edu.ec.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ingenieria Maritima 
+      y Ciencias del Mar, FIMCM, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O.
+      Box 09-01-5863, Guayaquil, Ecuador. bbayot@espol.edu.ec.
+FAU - Reyes, Alejandro
+AU  - Reyes A
+AUID- ORCID: 0000-0003-2907-3265
+AD  - Department of Biological Sciences, Universidad de los Andes, Bogota, Colombia.
+      a.reyes@uniandes.edu.co.
+AD  - Max Planck Tandem Group in Computational Biology, Universidad de los Andes,
+      Bogota, Colombia. a.reyes@uniandes.edu.co.
+AD  - Center for Genome Sciences and Systems Biology, Department of Pathology and
+      Immunology, Washington University in Saint Louis, Saint Louis, MO, USA.
+      a.reyes@uniandes.edu.co.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Video-Audio Media
+DEP - 20210412
+PL  - England
+TA  - Microbiome
+JT  - Microbiome
+JID - 101615147
+RN  - 0 (RNA, Ribosomal, 16S)
+RN  - Vibrio diabolicus
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - *Microbiota
+MH  - Necrosis
+MH  - *Penaeidae
+MH  - Phylogeny
+MH  - *Probiotics
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Survivors
+MH  - Vibrio
+MH  - *Vibrio parahaemolyticus/genetics
+PMC - PMC8042889
+OTO - NOTNLM
+OT  - *Acute hepatopancreatic necrosis disease (AHPND)
+OT  - *Comparative genomics
+OT  - *Horizontal gene transfer (HGT)
+OT  - *Metagenomics
+OT  - *Microbiome
+OT  - *Probiotics
+OT  - *Vibrio diabolicus
+EDAT- 2021/04/14 06:00
+MHDA- 2021/05/07 06:00
+CRDT- 2021/04/13 05:38
+PHST- 2020/12/07 00:00 [received]
+PHST- 2021/03/05 00:00 [accepted]
+PHST- 2021/04/13 05:38 [entrez]
+PHST- 2021/04/14 06:00 [pubmed]
+PHST- 2021/05/07 06:00 [medline]
+AID - 10.1186/s40168-021-01043-8 [doi]
+AID - 10.1186/s40168-021-01043-8 [pii]
+PST - epublish
+SO  - Microbiome. 2021 Apr 12;9(1):88. doi: 10.1186/s40168-021-01043-8.
+
+PMID- 33571511
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211112
+LR  - 20211112
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 180
+DP  - 2021 Mar
+TI  - Metabolic responses of whiteleg shrimp to white spot syndrome virus (WSSV).
+PG  - 107545
+LID - S0022-2011(21)00012-4 [pii]
+LID - 10.1016/j.jip.2021.107545 [doi]
+AB  - Outbreaks of white spot syndrome virus (WSSV) have caused serious damage to
+      penaeid shrimp aquaculture worldwide. Despite great efforts to characterize the
+      virus, the conditions that lead to infection and the infection mechanisms, there 
+      is still a lack of understanding regarding these complex virus-host interactions,
+      which is needed to develop consistent and effective treatment methods for WSSV.
+      In this study, we used a gas chromatography - mass spectrometry (GC-MS)-based
+      metabolomics approach to compare the metabolite profiles of gills, haemolymph and
+      hepatopancreas from whiteleg shrimp (Penaeus vannamei) exposed to WSSV and
+      corresponding controls. The results revealed clear discriminations between
+      metabolite profiles of WSSV-challenged shrimp and controlled shrimp in each
+      tissue. The responses of shrimp gills to WSSV infection were characterized by
+      increases of many fatty acids and amino acids in WSSV-challenged shrimp compared 
+      to the controls. Changes in haemolymph metabolite profiles include the increased 
+      levels of itaconic acid, energy-related metabolites, metabolites in glutathione
+      cycle and decrease of amino acids. The WSSV challenge led to the decreases of
+      several fatty acids and amino acids and increases of other amino acids, lactic
+      acid and other organic compounds (levulinic acid, malonic acid and putrescine) in
+      hepatopancreas. These alterations of shrimp metabolites suggest several immune
+      responses of shrimp to WSSV in a tissue-specific manner, including upregulation
+      of osmoregulation, antimicrobial activity, metabolic rate, gluconeogenesis,
+      glutathione pathway in control of oxidative stress and shift from aerobic to
+      anaerobic metabolism in shrimp which indicates the Warburg effect. The findings
+      from this study provide a better understanding of molecular process of shrimp
+      response against WSSV invasion which may be useful for development of disease
+      management strategies.
+CI  - Copyright (c) 2021 Elsevier Inc. All rights reserved.
+FAU - Alfaro, Andrea C
+AU  - Alfaro AC
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand. Electronic address:
+      andrea.alfaro@aut.ac.nz.
+FAU - Nguyen, Thao V
+AU  - Nguyen TV
+AD  - Aquaculture Biotechnology Research Group, School of Science, Auckland University 
+      of Technology, Auckland, New Zealand; NTT Hi-Tech Institute, Nguyen Tat Thanh
+      University, Ho Chi Minh City, Viet Nam.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Rodriguez Leon, Jenny A
+AU  - Rodriguez Leon JA
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Sonnenholzner, Stanislaus
+AU  - Sonnenholzner S
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km. 30.5 Via Perimetral, 
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210208
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Animals
+MH  - Aquaculture
+MH  - Gas Chromatography-Mass Spectrometry
+MH  - Gills/virology
+MH  - Hemolymph/virology
+MH  - Hepatopancreas/virology
+MH  - Penaeidae/*metabolism/*virology
+MH  - White spot syndrome virus 1/*physiology
+OTO - NOTNLM
+OT  - *Antiviral responses
+OT  - *GC-MS-based metabolomics
+OT  - *Itaconic acid
+OT  - *Penaeus vannamei
+OT  - *Shrimp immunity
+OT  - *WSSV
+EDAT- 2021/02/12 06:00
+MHDA- 2021/11/16 06:00
+CRDT- 2021/02/11 20:10
+PHST- 2020/09/10 00:00 [received]
+PHST- 2021/01/29 00:00 [revised]
+PHST- 2021/02/02 00:00 [accepted]
+PHST- 2021/02/12 06:00 [pubmed]
+PHST- 2021/11/16 06:00 [medline]
+PHST- 2021/02/11 20:10 [entrez]
+AID - S0022-2011(21)00012-4 [pii]
+AID - 10.1016/j.jip.2021.107545 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2021 Mar;180:107545. doi: 10.1016/j.jip.2021.107545. Epub
+      2021 Feb 8.
+
+PMID- 33570040
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210212
+LR  - 20210212
+IS  - 0177-5103 (Print)
+IS  - 0177-5103 (Linking)
+VI  - 143
+DP  - 2021 Feb 11
+TI  - Studies on infectious myonecrosis virus (IMNV) and infectious hypodermal and
+      hematopoietic necrosis virus (IHHNV) in cultured penaeid shrimp in Egypt.
+PG  - 57-67
+LID - 10.3354/dao03556 [doi]
+AB  - The present study aimed to diagnose infectious myonecrosis virus (IMNV) and
+      infectious hypodermal and hematopoietic necrosis virus (IHHNV) among cultured
+      penaeid shrimp (Penaeus semisulcatus, n = 120) collected from private farms in 2 
+      Egyptian provinces (Damietta and North Sinai) along the Mediterranean coast. The 
+      collected shrimp were subjected to clinical examination, histopathology,
+      molecular characterization, and phylogenetic analysis. Most of the shrimp
+      infected with IMNV showed a distinctive appearance resembling cooked shrimp and
+      white necrosis on distal abdominal segments and tail fans. Simultaneously,
+      IHHNV-infected cases displayed opaque abdominal muscles, white milky to buff
+      mottling on the shell, and a pathognomonic runt-deformity syndrome.
+      Histopathological examination of infected specimens revealed muscular edema,
+      hemocyte infiltration, deformities, Zenker's necrosis, and eosinophilic
+      intra-nuclear inclusion bodies (Cowdry type A). PCR results gave predictable
+      amplicon sizes of 139 and 81 bp and confirmed the presence of IMNV and IHHNV with
+      a total prevalence of 37.5 and 25%, respectively. A homology search by BLAST
+      analysis showed that the retrieved isolates putatively belonged to IMNV and IHHNV
+      based on 96.3 to 97% nucleotide identity to the corresponding open reading frame 
+      gene of each virus. The phylogenetic analysis clearly showed genetic similarity
+      and cross-lineage between our isolates and other isolates from Egypt, the USA,
+      Brazil, Indonesia, China, Korea, Taiwan, and Ecuador. In conclusion, gross
+      inspection and histopathology may aid in the diagnosis of viral diseases;
+      however, molecular tools are indispensable for confirming a possible infection.
+      The current study recommends strict regulations during live shrimp transportation
+      and implementing health control certificates over all imports and exports,
+      especially in developing countries, including Egypt.
+FAU - Aly, Salah M
+AU  - Aly SM
+AD  - Department of Pathology, Faculty of Veterinary Medicine, Suez Canal University,
+      Ismailia 41522, Egypt.
+FAU - Mansour, Shimaa M
+AU  - Mansour SM
+FAU - Thabet, Randa Y
+AU  - Thabet RY
+FAU - Mabrok, Mahmoud
+AU  - Mabrok M
+LA  - eng
+PT  - Journal Article
+DEP - 20210211
+PL  - Germany
+TA  - Dis Aquat Organ
+JT  - Diseases of aquatic organisms
+JID - 8807037
+SB  - IM
+MH  - Animals
+MH  - Brazil
+MH  - China
+MH  - *Densovirinae
+MH  - Ecuador
+MH  - Egypt/epidemiology
+MH  - Indonesia
+MH  - *Penaeidae
+MH  - Phylogeny
+MH  - Republic of Korea
+OTO - NOTNLM
+OT  - Egypt
+OT  - Histopathology
+OT  - IHHNV
+OT  - IMNV
+OT  - Molecular detection
+OT  - Penaeus semisulcatus
+OT  - Phylogenetic analysis
+EDAT- 2021/02/12 06:00
+MHDA- 2021/02/13 06:00
+CRDT- 2021/02/11 08:39
+PHST- 2021/02/11 08:39 [entrez]
+PHST- 2021/02/12 06:00 [pubmed]
+PHST- 2021/02/13 06:00 [medline]
+AID - 10.3354/dao03556 [doi]
+PST - epublish
+SO  - Dis Aquat Organ. 2021 Feb 11;143:57-67. doi: 10.3354/dao03556.
+
+PMID- 32882588
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210709
+LR  - 20210709
+IS  - 1873-426X (Electronic)
+IS  - 0008-6215 (Linking)
+VI  - 497
+DP  - 2020 Nov
+TI  - Chitosan from shrimp residues with a saturated solution of calcium chloride in
+      methanol and water.
+PG  - 108116
+LID - S0008-6215(20)30220-2 [pii]
+LID - 10.1016/j.carres.2020.108116 [doi]
+AB  - Calcium chloride, methanol, and water in stoichiometric amounts were used for the
+      extraction of chitosan from shrimp residues (Farfantepenaeus aztecus). Chitosan
+      was characterized by FT-IR, TGA, XRD, SEM, elemental analysis, and (13)C-NMR. The
+      yield of chitosan with medium molecular mass was 65.90% (mass of extracted
+      chitosan/mass of shrimp residues when the extraction was assisted with stirring
+      at 60 degrees C for 20 min and ultrasound at 60 degrees C for 30 min. The
+      extracted chitosan had a % DD of 64.06 and 65.87% ((13)C-NMR and FT-IR,
+      respectively), thermal decomposition stage at 375 degrees C, porous on its
+      surface, and calcite as the main mineral found. The experimental results revealed
+      that the saturated solution of calcium chloride in methanol and water could be an
+      alternative for the extraction of mineralized chitosan from shrimp residues with 
+      thermal stability and porosity.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Borja-Urzola, Aranys Del Carmen
+AU  - Borja-Urzola ADC
+AD  - Universidad Nacional Autonoma de Mexico, Facultad de Quimica, Departamento de
+      Ingenieria Quimica, Laboratorios de Ingenieria Quimica Ambiental y de Quimica
+      Ambiental, 04510 Ciudad de Mexico, Mexico. Electronic address:
+      aradelc12@gmail.com.
+FAU - Garcia-Gomez, Rolando Salvador
+AU  - Garcia-Gomez RS
+AD  - Universidad Nacional Autonoma de Mexico, Facultad de Quimica, Departamento de
+      Ingenieria Quimica, Laboratorios de Ingenieria Quimica Ambiental y de Quimica
+      Ambiental, 04510 Ciudad de Mexico, Mexico. Electronic address:
+      rolandoga2000_a@yahoo.com.
+FAU - Flores, Ronny
+AU  - Flores R
+AD  - Universidad Central del Ecuador, Facultad de Ciencias Quimicas, Laboratorio de
+      Quimica Ambiental, Ciudad Universitaria, Quito, Ecuador. Electronic address:
+      raflores@uce.edu.ec.
+FAU - Duran-Dominguez-de-Bazua, Maria Del Carmen
+AU  - Duran-Dominguez-de-Bazua MDC
+AD  - Universidad Nacional Autonoma de Mexico, Facultad de Quimica, Departamento de
+      Ingenieria Quimica, Laboratorios de Ingenieria Quimica Ambiental y de Quimica
+      Ambiental, 04510 Ciudad de Mexico, Mexico. Electronic address: mcduran@unam.mx.
+LA  - eng
+PT  - Journal Article
+DEP - 20200813
+PL  - Netherlands
+TA  - Carbohydr Res
+JT  - Carbohydrate research
+JID - 0043535
+RN  - 0 (Solutions)
+RN  - 059QF0KO0R (Water)
+RN  - 9012-76-4 (Chitosan)
+RN  - M4I0D6VV5M (Calcium Chloride)
+RN  - Y4S76JWI15 (Methanol)
+SB  - IM
+MH  - Animals
+MH  - Calcium Chloride/*chemistry
+MH  - Chitosan/*chemistry/isolation & purification
+MH  - Methanol/*chemistry
+MH  - Penaeidae/*chemistry
+MH  - Porosity
+MH  - Solutions
+MH  - Temperature
+MH  - Water/*chemistry
+OTO - NOTNLM
+OT  - Calcite
+OT  - Chitosan
+OT  - Mineralized chitosan
+OT  - Thermal stability
+OT  - Ultrasound
+EDAT- 2020/09/04 06:00
+MHDA- 2021/07/10 06:00
+CRDT- 2020/09/04 06:00
+PHST- 2020/04/13 00:00 [received]
+PHST- 2020/07/31 00:00 [revised]
+PHST- 2020/08/03 00:00 [accepted]
+PHST- 2020/09/04 06:00 [pubmed]
+PHST- 2021/07/10 06:00 [medline]
+PHST- 2020/09/04 06:00 [entrez]
+AID - S0008-6215(20)30220-2 [pii]
+AID - 10.1016/j.carres.2020.108116 [doi]
+PST - ppublish
+SO  - Carbohydr Res. 2020 Nov;497:108116. doi: 10.1016/j.carres.2020.108116. Epub 2020 
+      Aug 13.
+
+PMID- 32149020
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2167-8359 (Print)
+IS  - 2167-8359 (Linking)
+VI  - 8
+DP  - 2020
+TI  - Evaluation of a new Argovit as an antiviral agent included in feed to protect the
+      shrimp Litopenaeus vannamei against White Spot Syndrome Virus infection.
+PG  - e8446
+LID - 10.7717/peerj.8446 [doi]
+AB  - In this study, four experimental assays were conducted to evaluate the use of a
+      new silver nanoparticle formulation named Argovit-4, which was prepared with
+      slight modifications to enhance its biological activity against white spot
+      syndrome virus (WSSV) in shrimp culture. The goals of these assays were to (1)
+      determine the protective effect of Argovit-4 against WSSV, (2) determine whether 
+      Argovit-4 supplemented in feed exhibits toxicity towards shrimp, (3) determine
+      whether Argovit-4 as antiviral additive in feed can prevent or delay/reduce
+      WSSV-induced shrimp mortality, and (4) determine whether Argovit-4 supplemented
+      in feed alters the early stages of the shrimp immune response. In bioassay 1,
+      several viral inocula calibrated at 7 SID50(shrimp infectious doses 50% endpoint)
+      were exposed to 40, 100, 200 and 1,000 ng/SID50 of Ag(+) and then intramuscularly
+      injected into shrimp for 96 h. In bioassay 2, shrimp were fed Argovit-4
+      supplemented in feed at different concentrations (10, 100 and 1,000 microg per
+      gram of feed) for 192 h. In bioassay 3, shrimp were treated with Argovit-4
+      supplemented in feed at different concentrations and then challenged against WSSV
+      for 192 h. In bioassay 4, quantitative real-time RT-qPCR was performed to measure
+      the transcriptional responses of five immune-relevant genes in haemocytes of
+      experimental shrimp treated with Argovit-4 supplemented in feed at 0, 6, 12, 24
+      and 48 h. The intramuscularly injected Argovit-4 showed a dose-dependent effect
+      (p < 0.05) on the cumulative shrimp mortality from 0-96 h post-infection. In the 
+      second bioassay, shrimp fed Argovit-4 supplemented in feed did not show signs of 
+      toxicity for the assayed doses over the 192-h experiment. The third and fourth
+      bioassays showed that shrimp challenged with WSSV at 1,000 microg/g feed
+      exhibited reduced mortality without altering the expression of some immune
+      system-related genes according to the observed level of transcriptional. This
+      study is the first show that the new Argovit-4 formulation has potential as an
+      antiviral additive in feed against WSSV and demonstrates a practical therapeutic 
+      strategy to control WSSV and possibly other invertebrate pathogens in shrimp
+      aquaculture.
+CI  - (c)2020 Romo-Quinonez et al.
+FAU - Romo-Quinonez, Carlos R
+AU  - Romo-Quinonez CR
+AD  - Laboratorio Biotecnologia de Organismos Marinos, Programa de Acuicultura, Centro 
+      de Investigaciones Biologicas del Noroeste, La Paz, BCS, Mexico.
+FAU - Alvarez-Sanchez, Ana R
+AU  - Alvarez-Sanchez AR
+AD  - Universidad Tecnica Estatal de Quevedo, Quevedo, Los Rios, Ecuador.
+FAU - Alvarez-Ruiz, Pindaro
+AU  - Alvarez-Ruiz P
+AD  - Departamento de Acuicultura, Centro Interdisciplinario de Investigacion para el
+      Desarrollo Integral Regional, I.P.N., Guasave, Sinaloa, Mexico.
+FAU - Chavez-Sanchez, Maria C
+AU  - Chavez-Sanchez MC
+AD  - Unidad de Acuicultura y Manejo Ambiental, Centro de Investigacion en Alimentacion
+      y Desarrollo, Mazatlan, Sinaloa, Mexico.
+FAU - Bogdanchikova, Nina
+AU  - Bogdanchikova N
+AD  - Centro de Nanociencias y Nanotecnologia, Universidad Nacional Autonoma de Mexico,
+      Ensenada, Baja California, Mexico.
+FAU - Pestryakov, Alexey
+AU  - Pestryakov A
+AD  - Tomsk Polytechnical University, Tomsk, Russia.
+FAU - Mejia-Ruiz, Claudio H
+AU  - Mejia-Ruiz CH
+AD  - Laboratorio Biotecnologia de Organismos Marinos, Programa de Acuicultura, Centro 
+      de Investigaciones Biologicas del Noroeste, La Paz, BCS, Mexico.
+LA  - eng
+PT  - Journal Article
+DEP - 20200227
+PL  - United States
+TA  - PeerJ
+JT  - PeerJ
+JID - 101603425
+PMC - PMC7049459
+OTO - NOTNLM
+OT  - AgNps
+OT  - Feed additive
+OT  - Shrimp
+OT  - WSSV
+COIS- The authors declare there are no competing interests.
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/10 06:01
+CRDT- 2020/03/10 06:00
+PHST- 2019/07/29 00:00 [received]
+PHST- 2019/12/20 00:00 [accepted]
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/10 06:01 [medline]
+AID - 10.7717/peerj.8446 [doi]
+AID - 8446 [pii]
+PST - epublish
+SO  - PeerJ. 2020 Feb 27;8:e8446. doi: 10.7717/peerj.8446. eCollection 2020.
+
+PMID- 32066764
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201116
+LR  - 20210216
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2020 Feb 17
+TI  - Effect of mannan oligosaccharides on the microbiota and productivity parameters
+      of Litopenaeus vannamei shrimp under intensive cultivation in Ecuador.
+PG  - 2719
+LID - 10.1038/s41598-020-59587-y [doi]
+AB  - The white leg Litopenaeus vannamei shrimp is of importance to the eastern Pacific
+      fisheries and aquaculture industry but suffer from diseases such as the recently 
+      emerged early mortality syndrome. Many bacterial pathogens have been identified
+      but the L. vannamei microbiota is still poorly known. Using a next-generation
+      sequencing (NGS) approach, this work evaluated the impact of the inclusion in the
+      diet of mannan oligosaccharide, (MOS, 0.5% w/w), over the L. vannamei microbiota 
+      and production behavior of L. vannamei under intensive cultivation in Ecuador.
+      The MOS supplementation lasted for 60 days, after which the shrimp in the ponds
+      were harvested, and the production data were collected. MOS improved productivity
+      outcomes by increasing shrimp survival by 30%. NGS revealed quantitative
+      differences in the shrimp microbiota between MOS and control conditions. In the
+      treatment with inclusion of dietary MOS, the predominant phylum was
+      Actinobacteria (28%); while the control group was dominated by the phylum
+      Proteobacteria (30%). MOS has also been linked to an increased prevalence of
+      Lactococcus- and Verrucomicrobiaceae-like bacteria. Furthermore, under the
+      treatment of MOS, the prevalence of potential opportunistic pathogens, like
+      Vibrio, Aeromonas, Bergeyella and Shewanella, was negligible. This may be
+      attributable to MOS blocking the adhesion of pathogens to the surfaces of the
+      host tissues. Together, these findings point to the fact that the performance
+      (survival) improvements of the dietary MOS may be linked to the impact on the
+      microbiota, since bacterial lines with pathogenic potential towards shrimps were 
+      excluded in the gut.
+FAU - Gainza, Oreste
+AU  - Gainza O
+AUID- ORCID: http://orcid.org/0000-0002-1359-1810
+AD  - Departamento de Acuicultura, Universidad Catolica del Norte, Doctorado en
+      Acuicultura, Programa Cooperativo Universidad de Chile, Pontificia Universidad
+      Catolica de Valparaiso, Universidad Catolica del Norte, Larrondo 1281, Coquimbo, 
+      Chile.
+FAU - Romero, Jaime
+AU  - Romero J
+AUID- ORCID: http://orcid.org/0000-0001-9614-2393
+AD  - Laboratorio de Biotecnologia de Alimentos, Unidad de Alimentos, Instituto de
+      Nutricion y Tecnologia de los Alimentos (INTA), Universidad de Chile, El Libano
+      5524, Macul, Santiago, Chile. jromero@inta.uchile.cl.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200217
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Mannans)
+RN  - 0 (Oligosaccharides)
+RN  - Bergeyella zoohelcum
+SB  - IM
+MH  - Actinobacteria/classification/isolation & purification/*physiology
+MH  - Aeromonas/isolation & purification/pathogenicity
+MH  - Animal Feed
+MH  - Animals
+MH  - Aquaculture/*methods
+MH  - Bacterial Adhesion
+MH  - Ecuador
+MH  - Flavobacteriaceae/isolation & purification/pathogenicity
+MH  - Lactococcus/isolation & purification/physiology
+MH  - Longevity/physiology
+MH  - Mannans/*administration & dosage
+MH  - *Microbiota
+MH  - Oligosaccharides/*administration & dosage
+MH  - Penaeidae/*microbiology
+MH  - Proteobacteria/classification/isolation & purification/physiology
+MH  - Seafood/microbiology/supply & distribution
+MH  - Shewanella/isolation & purification/pathogenicity
+MH  - Verrucomicrobia/classification/isolation & purification/physiology
+MH  - Vibrio/isolation & purification/pathogenicity
+PMC - PMC7026423
+EDAT- 2020/02/19 06:00
+MHDA- 2020/11/18 06:00
+CRDT- 2020/02/19 06:00
+PHST- 2016/12/08 00:00 [received]
+PHST- 2020/01/28 00:00 [accepted]
+PHST- 2020/02/19 06:00 [entrez]
+PHST- 2020/02/19 06:00 [pubmed]
+PHST- 2020/11/18 06:00 [medline]
+AID - 10.1038/s41598-020-59587-y [doi]
+AID - 10.1038/s41598-020-59587-y [pii]
+PST - epublish
+SO  - Sci Rep. 2020 Feb 17;10(1):2719. doi: 10.1038/s41598-020-59587-y.
+
+PMID- 31947590
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200929
+LR  - 20200929
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2020 Jan 14
+TI  - The Complete Genome of an Endogenous Nimavirus (Nimav-1_LVa) From the Pacific
+      Whiteleg Shrimp Penaeus (Litopenaeus) Vannamei.
+LID - E94 [pii]
+LID - 10.3390/genes11010094 [doi]
+AB  - White spot syndrome virus (WSSV), the lone virus of the genus Whispovirus under
+      the family Nimaviridae, is one of the most devastating viruses affecting the
+      shrimp farming industry. Knowledge about this virus, in particular, its evolution
+      history, has been limited, partly due to its large genome and the lack of other
+      closely related free-living viruses for comparative studies. In this study, we
+      reconstructed a full-length endogenous nimavirus consensus genome, Nimav-1_LVa
+      (279,905 bp), in the genome sequence of Penaeus (Litopenaeus) vannamei breed
+      Kehai No. 1 (ASM378908v1). This endogenous virus seemed to insert exclusively
+      into the telomeric pentanucleotide microsatellite (TAACC/GGTTA)n. It encoded 117 
+      putative genes, with some containing introns, such as g012 (inhibitor of
+      apoptosis, IAP), g046 (crustacean hyperglycemic hormone, CHH), g155 (innexin),
+      g158 (Bax inhibitor 1 like). More than a dozen Nimav-1_LVa genes are involved in 
+      the pathogen-host interactions. We hypothesized that g046, g155, g158, and g227
+      (semaphorin 1A like) were recruited host genes for their roles in immune
+      regulation. Sequence analysis indicated that a total of 43 WSSV genes belonged to
+      the ancestral/core nimavirus gene set, including four genes reported in this
+      study: wsv112 (dUTPase), wsv206, wsv226, and wsv308 (nucleocapsid protein). The
+      availability of the Nimav-1_LVa sequence would help understand the genetic
+      diversity, epidemiology, evolution, and virulence of WSSV.
+FAU - Bao, Weidong
+AU  - Bao W
+AD  - Genetic Information Research Institute, 20380 Town Center Lane, Suite 240,
+      Cupertino, CA 95014, USA.
+FAU - Tang, Kathy F J
+AU  - Tang KFJ
+AD  - Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, 106
+      Nanjing Road, Qingdao 266071, China.
+FAU - Alcivar-Warren, Acacia
+AU  - Alcivar-Warren A
+AD  - Fundacion para la Conservation de la Biodiversidad Acuatica y Terrestre (FUCOBI),
+      Quito EC1701, Ecuador.
+AD  - Environmental Genomics Inc., ONE HEALTH Epigenomics Educational Initiative, P. O.
+      Box 196, Southborough, MA 01772, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20200114
+PL  - Switzerland
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+RN  - 0 (Viral Proteins)
+SB  - IM
+MH  - Animals
+MH  - *Genome, Viral
+MH  - Host-Pathogen Interactions/*genetics
+MH  - Nimaviridae/*physiology
+MH  - Penaeidae/*virology
+MH  - Viral Proteins/*genetics
+PMC - PMC7016691
+OTO - NOTNLM
+OT  - *DNAV-1_LVa
+OT  - *Nimav-1_LVa
+OT  - *Nimaviridae
+OT  - *Penaeus (Litopenaeus) vannamei
+OT  - *WSSV
+OT  - *white spot syndrome virus
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/01/18 06:00
+MHDA- 2020/09/30 06:00
+CRDT- 2020/01/18 06:00
+PHST- 2019/12/17 00:00 [received]
+PHST- 2020/01/08 00:00 [revised]
+PHST- 2020/01/09 00:00 [accepted]
+PHST- 2020/01/18 06:00 [entrez]
+PHST- 2020/01/18 06:00 [pubmed]
+PHST- 2020/09/30 06:00 [medline]
+AID - genes11010094 [pii]
+AID - 10.3390/genes11010094 [doi]
+PST - epublish
+SO  - Genes (Basel). 2020 Jan 14;11(1). pii: genes11010094. doi: 10.3390/genes11010094.
+
+PMID- 31360642
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2215-0161 (Print)
+IS  - 2215-0161 (Linking)
+VI  - 6
+DP  - 2019
+TI  - An effective white spot syndrome virus challenge test for cultured shrimp using
+      different biomass of the infected papilla.
+PG  - 1617-1626
+LID - 10.1016/j.mex.2019.07.007 [doi]
+AB  - White spot syndrome virus (WSSV) is one of the most virulent pathogens of
+      cultured penaeid shrimp. Several control strategies are used commonly to mitigate
+      the economic losses caused by the pathogen, such as application of antiviral
+      products at farm level. One of the most practical method for the screening of
+      potential anti-WSSV products is through challenge tests. Therefore, it is
+      essential to develop simple, reproducible and effective bioassays able to
+      simulate specific mortality levels. The purpose of this study was to develop a
+      simple and reproducible bioassay that simulate different mortality levels by
+      varying the proportion of WSSV-infected and noninfected shrimp tissues
+      administered to susceptible shrimp during a per os challenge test. This method
+      mimics one of the natural transmission routes of WSSV infection in shrimp and
+      could be applied to identify potential antiviral products to different cultured
+      shrimp species susceptible to WSSV. Here we report: *A simple and economic method
+      to evaluate therapeutic antiviral products against WSSV through a challenge test,
+      that uses different biomass amounts of WSSV-infected papilla.*Allows to simulate 
+      a wide and reproducible range of mortalities observed in shrimp farms.*A
+      challenge test that simulates one mode of natural WSSV infection in shrimp.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Betancourt, Irma
+AU  - Betancourt I
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Panchana, Fanny
+AU  - Panchana F
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Sonnenholzner, Stanislaus
+AU  - Sonnenholzner S
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ingenieria Maritima 
+      y Ciencias del Mar, FIMCM, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O.
+      Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Bayot, Bonny
+AU  - Bayot B
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Centro Nacional de Acuicultura e
+      Investigaciones Marinas, CENAIM, Campus Gustavo Galindo Km 30.5 Via Perimetral,
+      P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Escuela Superior Politecnica del Litoral, ESPOL, Facultad de Ingenieria Maritima 
+      y Ciencias del Mar, FIMCM, Campus Gustavo Galindo Km 30.5 Via Perimetral, P.O.
+      Box 09-01-5863, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20190710
+PL  - Netherlands
+TA  - MethodsX
+JT  - MethodsX
+JID - 101639829
+PMC - PMC6639687
+OTO - NOTNLM
+OT  - Dose-response
+OT  - Per os challenge test
+OT  - Virus virulence
+OT  - WSSV
+OT  - WSSV challenge test using different biomass of infected-muscle
+EDAT- 2019/07/31 06:00
+MHDA- 2019/07/31 06:01
+CRDT- 2019/07/31 06:00
+PHST- 2019/02/22 00:00 [received]
+PHST- 2019/07/04 00:00 [accepted]
+PHST- 2019/07/31 06:00 [entrez]
+PHST- 2019/07/31 06:00 [pubmed]
+PHST- 2019/07/31 06:01 [medline]
+AID - 10.1016/j.mex.2019.07.007 [doi]
+AID - S2215-0161(19)30182-7 [pii]
+PST - epublish
+SO  - MethodsX. 2019 Jul 10;6:1617-1626. doi: 10.1016/j.mex.2019.07.007. eCollection
+      2019.
+
+PMID- 30619722
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2215-0161 (Print)
+IS  - 2215-0161 (Linking)
+VI  - 5
+DP  - 2018
+TI  - A simple in vitro method to evaluate the toxicity of functional additives used in
+      shrimp aquaculture.
+PG  - 90-95
+LID - 10.1016/j.mex.2018.01.010 [doi]
+AB  - To mitigate the economic losses provoked by disease outbreaks, shrimp producers
+      employ therapeutic additives. However, important issues such as the toxicity of
+      these products on shrimp are not always considered. In vivo toxicity assays
+      require a lot of time and large economic and physical resources. Here, we
+      describe an in vitro procedure to evaluate the toxicity of functional additives, 
+      used in the production of shrimp Penaeus vannamei. This method adapted the cell
+      viability assay based on the reduction of tetrazolium salts (MTT) to primary cell
+      cultures of shrimp hemocytes. *A simple and reliable tool that requires few
+      physical and economic resources to evaluate in short time (6h) the cytotoxic
+      effect of therapeutic products and additives to be included in shrimp
+      culture*This inexpensive method requires only a modified Hank's balanced salt
+      solution (HBSS) containing Ca(2+) and Mg(2+) to keep hemocytes metabolically
+      active to successfully carry out the cytotoxicity assay*This toxicity in vitro
+      assay does not require exposure of the shrimp to compounds at toxic
+      concentrations.
+FAU - Dominguez-Borbor, Cristobal
+AU  - Dominguez-Borbor C
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro Nacional de Investigaciones Marinas (CENAIM), Campus Gustavo Galindo Km.
+      30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Chalen-Alvarado, Bolivar
+AU  - Chalen-Alvarado B
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro Nacional de Investigaciones Marinas (CENAIM), Campus Gustavo Galindo Km.
+      30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Rodriguez, Jenny A
+AU  - Rodriguez JA
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro Nacional de Investigaciones Marinas (CENAIM), Campus Gustavo Galindo Km.
+      30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20180131
+PL  - Netherlands
+TA  - MethodsX
+JT  - MethodsX
+JID - 101639829
+PMC - PMC6314867
+OTO - NOTNLM
+OT  - Metabolism
+OT  - Tetrazolium salts
+OT  - Viable hemocyte
+EDAT- 2019/01/09 06:00
+MHDA- 2019/01/09 06:01
+CRDT- 2019/01/09 06:00
+PHST- 2017/12/13 00:00 [received]
+PHST- 2018/01/27 00:00 [accepted]
+PHST- 2019/01/09 06:00 [entrez]
+PHST- 2019/01/09 06:00 [pubmed]
+PHST- 2019/01/09 06:01 [medline]
+AID - 10.1016/j.mex.2018.01.010 [doi]
+AID - S2215-0161(18)30020-7 [pii]
+PST - epublish
+SO  - MethodsX. 2018 Jan 31;5:90-95. doi: 10.1016/j.mex.2018.01.010. eCollection 2018.
+
+PMID- 28929202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190201
+LR  - 20190201
+IS  - 1432-184X (Electronic)
+IS  - 0095-3628 (Linking)
+VI  - 75
+IP  - 3
+DP  - 2018 Apr
+TI  - Intestinal Microbiota of White Shrimp Penaeus vannamei Under Intensive
+      Cultivation Conditions in Ecuador.
+PG  - 562-568
+LID - 10.1007/s00248-017-1066-z [doi]
+AB  - The goal of the study was to characterize the intestinal tract bacterial
+      microbiota composition of Penaeus vannamei in intensive commercial ponds in
+      Ecuador, comparing two shrimp-farming phases: nursery and harvest. Bacterial
+      microbiota was examined by sequencing amplicons V2-V3 of the 16S rRNA using Ion
+      Torrent technology. Archaea sequences were detected in both phases. Sequence
+      analyses revealed quantitative and qualitative differences between the nursery
+      phase and the harvest phase in shrimp intestinal microbiota composition. The main
+      differences were observed at the phylum level during the nursery phase, and the
+      prevailing phyla were CKC4 (37.3%), Proteobacteria (29.8%), Actinobacteria
+      (11.6%), and Firmicutes (10.1%). In the harvest phase, the prevailing phyla were 
+      Proteobacteria (28.4%), Chloroflexi (19.9%), and Actinobacteria (15.1%). At the
+      genus level, microbiota from the nursery phase showed greater relative abundances
+      of CKC4 uncultured bacterium (37%) and Escherichia-Shigella (18%). On the
+      contrary, in the microbiota of harvested shrimp, the prevailing genera were
+      uncultured Caldilinea (19%) and Alphaproteobacteria with no other assigned rate
+      (10%). The analysis of similarity ANOSIM test (beta diversity) indicated
+      significant differences between the shrimp microbiota for these two farming
+      phases. Similarly, alfa-diversity analysis (Chao1) indicated that the microbiota 
+      at harvest was far more diverse than the microbiota during the nursery phase,
+      which showed a homogeneous composition. These results suggest that shrimp
+      microbiota diversify their composition during intensive farming. The present work
+      offers the most detailed description of the microbiota of P. vannamei under
+      commercial production conditions to date.
+FAU - Gainza, Oreste
+AU  - Gainza O
+AD  - Doctorado en Acuicultura, Programa Cooperativo, Universidad de Chile, Universidad
+      Catolica del Norte y Universidad Catolica de Valparaiso, Coquimbo, Chile.
+FAU - Ramirez, Carolina
+AU  - Ramirez C
+AD  - Laboratorio de Biotecnologia, Instituto de Nutricion y Tecnologia de los
+      Alimentos (INTA), Universidad de Chile, Avda. El Libano 5524, Santiago, Chile.
+FAU - Ramos, Alfredo Salinas
+AU  - Ramos AS
+AD  - Granja de Cultivo Intensivo San Ana, Via Arenillas Huaquilla, El Oro, Ecuador.
+FAU - Romero, Jaime
+AU  - Romero J
+AUID- ORCID: http://orcid.org/0000-0001-9614-2393
+AD  - Laboratorio de Biotecnologia, Unidad de Alimentos, Instituto de Nutricion y
+      Tecnologia de los Alimentos (INTA), Universidad de Chile, Avda. El Libano 5524,
+      Santiago, Chile. jromero@inta.uchile.cl.
+LA  - eng
+GR  - 1140734/Fondo Nacional de Desarrollo Cientifico y Tecnologico
+GR  - 1171129/Fondo Nacional de Desarrollo Cientifico y Tecnologico
+PT  - Journal Article
+DEP - 20170920
+PL  - United States
+TA  - Microb Ecol
+JT  - Microbial ecology
+JID - 7500663
+RN  - 0 (DNA, Archaeal)
+RN  - 0 (DNA, Bacterial)
+RN  - 0 (RNA, Ribosomal, 16S)
+SB  - IM
+MH  - Animals
+MH  - Archaea/*classification/genetics/isolation & purification
+MH  - Bacteria/*classification/genetics/isolation & purification
+MH  - Biodiversity
+MH  - DNA, Archaeal/genetics
+MH  - DNA, Bacterial/genetics
+MH  - Ecuador
+MH  - Fisheries
+MH  - *Gastrointestinal Microbiome/genetics
+MH  - Penaeidae/*microbiology
+MH  - *Phylogeny
+MH  - RNA, Ribosomal, 16S/genetics
+MH  - Sequence Analysis, DNA
+OTO - NOTNLM
+OT  - Archaea
+OT  - CKC4
+OT  - Microbiome
+OT  - Microbiota
+OT  - OTUs
+OT  - Penaeus vannamei
+OT  - Shrimp
+EDAT- 2017/09/21 06:00
+MHDA- 2019/02/02 06:00
+CRDT- 2017/09/21 06:00
+PHST- 2017/02/08 00:00 [received]
+PHST- 2017/09/01 00:00 [accepted]
+PHST- 2017/09/21 06:00 [pubmed]
+PHST- 2019/02/02 06:00 [medline]
+PHST- 2017/09/21 06:00 [entrez]
+AID - 10.1007/s00248-017-1066-z [doi]
+AID - 10.1007/s00248-017-1066-z [pii]
+PST - ppublish
+SO  - Microb Ecol. 2018 Apr;75(3):562-568. doi: 10.1007/s00248-017-1066-z. Epub 2017
+      Sep 20.
+
+PMID- 27488253
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170817
+LR  - 20191211
+IS  - 1466-5034 (Electronic)
+IS  - 1466-5026 (Linking)
+VI  - 66
+IP  - 11
+DP  - 2016 Nov
+TI  - Penicillium pedernalense sp. nov., isolated from whiteleg shrimp heads waste
+      compost.
+PG  - 4382-4388
+LID - 10.1099/ijsem.0.001360 [doi]
+AB  - Novel Penicillium-like strains were isolated during the characterization of the
+      mycobiota community dynamics associated with shrimp waste composting.
+      Phylogenetic analysis of the partial beta-tubulin (BenA) gene and the ribosomal
+      DNA internal transcribed spacer region (ITS1-5.8S-ITS2) sequences revealed that
+      the novel strains were members of section Lanata-Divaricata and were closely
+      related to Penicillium infrabuccalum DAOMC 250537T. On the basis of morphological
+      and physiological characterization, and phylogenetic analysis, a novel
+      Penicillium species, Penicillium pedernalense sp. nov., is proposed. The type
+      strain is F01-11T (=CBS 140770T=CECT 20949T), which was isolated from whiteleg
+      shrimp (Litopenaeus vannamei) heads waste compost in the Pedernales region
+      (Manabi province, Ecuador).
+FAU - Laich, Federico
+AU  - Laich F
+AD  - Instituto Canario de Investigaciones Agrarias, Ctra. Boqueron s/n, Valle de
+      Guerra, Santa Cruz de Tenerife, Spain.
+AD  - Departamento Central de Investigacion, Universidad Laica 'Eloy Alfaro' de Manabi,
+      Av. Circunvalacion y Calle 12 via a San Mateo, Manta, Ecuador.
+FAU - Andrade, Jacinto
+AU  - Andrade J
+AD  - Facultad de Ciencias Agropecuarias, Universidad Laica 'Eloy Alfaro' de Manabi,
+      Via E382 Pedernales-El Carmen Km. 1.5, Pedernales, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20160802
+PL  - England
+TA  - Int J Syst Evol Microbiol
+JT  - International journal of systematic and evolutionary microbiology
+JID - 100899600
+RN  - 0 (DNA, Fungal)
+RN  - 0 (DNA, Ribosomal)
+RN  - 0 (DNA, Ribosomal Spacer)
+RN  - 0 (Tubulin)
+SB  - IM
+MH  - Animals
+MH  - DNA, Fungal/genetics
+MH  - DNA, Ribosomal/genetics
+MH  - DNA, Ribosomal Spacer/genetics
+MH  - Decapoda/*microbiology
+MH  - Ecuador
+MH  - Genes, Fungal
+MH  - Mycological Typing Techniques
+MH  - Penicillium/*classification/genetics/isolation & purification
+MH  - *Phylogeny
+MH  - Sequence Analysis, DNA
+MH  - Tubulin/genetics
+EDAT- 2016/08/05 06:00
+MHDA- 2017/08/18 06:00
+CRDT- 2016/08/05 06:00
+PHST- 2016/08/05 06:00 [pubmed]
+PHST- 2017/08/18 06:00 [medline]
+PHST- 2016/08/05 06:00 [entrez]
+AID - 10.1099/ijsem.0.001360 [doi]
+PST - ppublish
+SO  - Int J Syst Evol Microbiol. 2016 Nov;66(11):4382-4388. doi:
+      10.1099/ijsem.0.001360. Epub 2016 Aug 2.
+
+PMID- 26250074
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160926
+LR  - 20181202
+IS  - 1552-8618 (Electronic)
+IS  - 0730-7268 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2016 Feb
+TI  - Predicting the effects of copper on local population decline of 2 marine
+      organisms, cobia fish and whiteleg shrimp, based on avoidance response.
+PG  - 405-10
+LID - 10.1002/etc.3192 [doi]
+AB  - The present study focuses on avoidance response to predict population decline of 
+      the marine fish Rachycentron canadum (cobia) and larvae of the estuarine shrimp
+      Litopenaeus vannamei (whiteleg shrimp). Avoidance of approximately 60% was
+      recorded for the cobia fry exposed to 1.0 mg Cu/L, 1.60 mg Cu/L, and 1.80 mg
+      Cu/L. For the shrimp larvae, avoidance was approximately 80% for all Cu
+      concentrations. The population decline of cobia fry was conditioned by avoidance 
+      in lower concentrations. However, in higher concentrations mortality begins to
+      play an important role. The displacement toward uncontaminated habitats might
+      determine shrimp population decline. A Cu-contaminated environment can determine 
+      the habitat selection of both species and, therefore, their local population
+      decline.
+CI  - (c) 2015 SETAC.
+FAU - Araujo, Cristiano V M
+AU  - Araujo CV
+AD  - Central Department of Research, Ecuadorian Aquatic Ecotoxicology group,
+      Universidad Laica Eloy Alfaro de Manabi, Manta, Ecuador.
+AD  - Centre of Functional Ecology, Department of Life Sciences, University of Coimbra,
+      Coimbra, Portugal.
+FAU - Cedeno-Macias, Luis A
+AU  - Cedeno-Macias LA
+AD  - Central Department of Research, Ecuadorian Aquatic Ecotoxicology group,
+      Universidad Laica Eloy Alfaro de Manabi, Manta, Ecuador.
+FAU - Vera-Vera, Victoria C
+AU  - Vera-Vera VC
+AD  - Central Department of Research, Ecuadorian Aquatic Ecotoxicology group,
+      Universidad Laica Eloy Alfaro de Manabi, Manta, Ecuador.
+FAU - Salvatierra, David
+AU  - Salvatierra D
+AD  - Central Department of Research, Ecuadorian Aquatic Ecotoxicology group,
+      Universidad Laica Eloy Alfaro de Manabi, Manta, Ecuador.
+FAU - Rodriguez, Elizabeth N V
+AU  - Rodriguez EN
+AD  - Central Department of Research, Ecuadorian Aquatic Ecotoxicology group,
+      Universidad Laica Eloy Alfaro de Manabi, Manta, Ecuador.
+FAU - Zambrano, Ufredo
+AU  - Zambrano U
+AD  - Ocean Farm, Punta Blanca, Manta, Ecuador.
+FAU - Kuri, Samir
+AU  - Kuri S
+AD  - Ocean Farm, Punta Blanca, Manta, Ecuador.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160108
+PL  - United States
+TA  - Environ Toxicol Chem
+JT  - Environmental toxicology and chemistry
+JID - 8308958
+RN  - 0 (Water Pollutants, Chemical)
+RN  - 789U1901C5 (Copper)
+SB  - IM
+MH  - Animals
+MH  - Behavior, Animal/*drug effects
+MH  - Copper/*toxicity
+MH  - Dose-Response Relationship, Drug
+MH  - Ecosystem
+MH  - Larva/drug effects
+MH  - *Penaeidae
+MH  - *Perciformes
+MH  - Population
+MH  - Water Pollutants, Chemical/*toxicity
+OTO - NOTNLM
+OT  - Avoidance
+OT  - Contamination gradient
+OT  - Environmental disturbance
+OT  - Habitat selection
+OT  - Nonforced exposure
+EDAT- 2015/08/08 06:00
+MHDA- 2016/09/27 06:00
+CRDT- 2015/08/08 06:00
+PHST- 2015/06/15 00:00 [received]
+PHST- 2015/07/25 00:00 [revised]
+PHST- 2015/08/04 00:00 [accepted]
+PHST- 2015/08/08 06:00 [entrez]
+PHST- 2015/08/08 06:00 [pubmed]
+PHST- 2016/09/27 06:00 [medline]
+AID - 10.1002/etc.3192 [doi]
+PST - ppublish
+SO  - Environ Toxicol Chem. 2016 Feb;35(2):405-10. doi: 10.1002/etc.3192. Epub 2016 Jan
+      8.
+
+PMID- 22671916
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121128
+LR  - 20151119
+IS  - 1348-0421 (Electronic)
+IS  - 0385-5600 (Linking)
+VI  - 56
+IP  - 8
+DP  - 2012 Aug
+TI  - Immunodetection of hemocytes, peneidins and alpha2-macroglobulin in the lymphoid 
+      organ of white spot syndrome virus infected shrimp.
+PG  - 562-71
+LID - 10.1111/j.1348-0421.2012.00476.x [doi]
+AB  - Viral diseases restrict the development of the world shrimp industry and there
+      are few studies on cell response to the presence of viral infections. We
+      performed immunohistochemistry assays to characterize hemocytes subpopulations
+      involved in the immune process occurring in the LO of Litopenaeus vannamei
+      shrimp. Tissue sections of animals that increased their LO spheroids and
+      hemocytes infiltration after WSSV induced infection, were used. Three MABs
+      namely, 40E10 (recognizing small granule hemocytes), 40E2 (recognizing large
+      granule hemocytes), and 41B12, which recognize alpha(2)-macroglobulin were used. 
+      Additionally one polyclonal antibody was used against the penaeidins
+      antimicrobial peptides, and to detect WSSV a commercial immunohistochemistry kit 
+      (DiagXotics) was used. Numerous small granule hemocytes were detected in the
+      stromal matrix of LO tubules, whereas large granule hemocytes were less numerous 
+      and located mainly in hemal sinuses. The exocytosis of two molecules, which have 
+      been related to the phagocytosis process, i.e. penaeidins, and
+      alpha(2)-macroglobulin, was detected in the external stromal matrix and the outer
+      tubule walls. alpha(2) -macroglobulin inhibits phenoloxidase activity and its
+      strong release in LO tissue may explain the absence of melanization in the immune
+      processes occurring in it. The immunolabeling of vesicles within the LO spheroids
+      with MABs 41B12 40E10 and antipenaedin antibody suggests that LOS are formed by
+      phagocytic cells derived from small granule and hyaline hemocytes, with a
+      possible role of peneidins and alpha(2)-macroglobulin acting as opsonines.
+CI  - (c) 2012 The Societies and Blackwell Publishing Asia Pty Ltd.
+FAU - Rodriguez, Jenny
+AU  - Rodriguez J
+AD  - ESPOL-Polytechnic University of the Coast, Campus Gustavo Galindo Velasco,
+      Guayaquil, Ecuador. jrodrigu@cenaim.espol.edu.ec
+FAU - Ruiz, Julio
+AU  - Ruiz J
+FAU - Maldonado, Martha
+AU  - Maldonado M
+FAU - Echeverria, Fabrizio
+AU  - Echeverria F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Australia
+TA  - Microbiol Immunol
+JT  - Microbiology and immunology
+JID - 7703966
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (alpha-Macroglobulins)
+SB  - IM
+MH  - Animal Structures/cytology/immunology
+MH  - Animals
+MH  - Antibodies, Monoclonal
+MH  - Hemocytes/*cytology
+MH  - Immunohistochemistry
+MH  - Microscopy
+MH  - Penaeidae/immunology/*virology
+MH  - Staining and Labeling/methods
+MH  - White spot syndrome virus 1/*immunology
+MH  - alpha-Macroglobulins/*analysis
+EDAT- 2012/06/08 06:00
+MHDA- 2012/12/10 06:00
+CRDT- 2012/06/08 06:00
+PHST- 2012/06/08 06:00 [entrez]
+PHST- 2012/06/08 06:00 [pubmed]
+PHST- 2012/12/10 06:00 [medline]
+AID - 10.1111/j.1348-0421.2012.00476.x [doi]
+PST - ppublish
+SO  - Microbiol Immunol. 2012 Aug;56(8):562-71. doi: 10.1111/j.1348-0421.2012.00476.x.
+
+PMID- 22434000
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120914
+LR  - 20120521
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 110
+IP  - 2
+DP  - 2012 Jun
+TI  - Historic emergence, impact and current status of shrimp pathogens in the
+      Americas.
+PG  - 174-83
+LID - 10.1016/j.jip.2012.03.006 [doi]
+AB  - Shrimp farming in the Americas began to develop in the late 1970s into a
+      significant industry. In its first decade of development, the technology used was
+      simple and postlarvae (PLs) produced from wild adults and wild caught PLs were
+      used for stocking farms. Prior to 1990, there were no World Animal Health
+      Organization (OIE) listed diseases, but that changed rapidly commensurate with
+      the phenomenal growth of the global shrimp farming industry. There was relatively
+      little international trade of live or frozen commodity shrimp between Asia and
+      the Americas in those early years, and with a few exceptions, most of the
+      diseases known before 1980 were due to disease agents that were opportunistic or 
+      part of the shrimps' local environment. Tetrahedral baculovirosis, caused by
+      Baculovirus penaei (BP), and necrotizing hepatopancreatitis (NHP) and its
+      bacterial agent Hepatobacterium penaei, were among the "American" diseases that
+      eventually became OIE listed and have not become established outside of the
+      Americas. As the industry grew after 1980, a number of new diseases that soon
+      became OIE listed, emerged in the Americas or were introduced from Asia.
+      Spherical baculovirus, caused by MBV, although discovered in the Americas in
+      imported live Penaeus monodon, was subsequently found to be common in wild and
+      farmed Asian, Australian and African penaeids. Infectious hypodermal and
+      hematopoietic necrosis virus (IHHNV) was introduced from the Philippines in the
+      mid 1970s with live P. monodon and was eventually found throughout the Americas
+      and subsequently in much of the shrimp farming industry in the eastern
+      hemisphere. Taura syndrome emerged in Penaeus vannamei farms in 1991-1992 in
+      Ecuador and was transferred to SE Asia with live shrimp by 1999 where it also
+      caused severe losses. White Spot Disease (WSD) caused by White spot syndrome
+      virus (WSSV) emerged in East Asia in approximately 1992, and spread throughout
+      most of the Asian shrimp farming industry by 1994. By 1995, WSSV reached the
+      eastern USA via frozen commodity products and it reached the main shrimp farming 
+      countries of the Americas located on the Pacific side of the continents by the
+      same mechanism in 1999. As is the case in Asia, WSD is the dominant disease
+      problem of farmed shrimp in the Americas. The most recent disease to emerge in
+      the Americas was infectious myonecrosis caused by IMN virus. As had happened
+      before, within 3years of its discovery, the disease had been transferred to SE
+      Asia with live P. vannamei, and because of its impact on the industry and
+      potential for further spread in was listed by the OIE in 2005. Despite the huge
+      negative impact of disease on the shrimp farming industry in the Americas, the
+      industry has continued to grow and mature into a more sustainable industry. In
+      marked contrast to 15-20years ago when PLs produced from wild adults and wild PLs
+      were used to stock farms in the Americas, the industry now relies on domesticated
+      lines of broodstock that have undergone selection for desirable characteristics
+      including disease resistance.
+CI  - Copyright (c) 2012 Elsevier Inc. All rights reserved.
+FAU - Lightner, D V
+AU  - Lightner DV
+AD  - Aquaculture Pathology Laboratory, Dept. Veterinary Science & Microbiology,
+      University of Arizona, Tucson, AZ 85721, USA. dvl@u.arizona.edu
+FAU - Redman, R M
+AU  - Redman RM
+FAU - Pantoja, C R
+AU  - Pantoja CR
+FAU - Tang, K F J
+AU  - Tang KF
+FAU - Noble, B L
+AU  - Noble BL
+FAU - Schofield, P
+AU  - Schofield P
+FAU - Mohney, L L
+AU  - Mohney LL
+FAU - Nunan, L M
+AU  - Nunan LM
+FAU - Navarro, S A
+AU  - Navarro SA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20120313
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Americas
+MH  - Animals
+MH  - Aquaculture/standards/*trends
+MH  - Crustacea/*microbiology
+EDAT- 2012/03/22 06:00
+MHDA- 2012/09/15 06:00
+CRDT- 2012/03/22 06:00
+PHST- 2011/08/14 00:00 [received]
+PHST- 2011/12/20 00:00 [accepted]
+PHST- 2012/03/22 06:00 [entrez]
+PHST- 2012/03/22 06:00 [pubmed]
+PHST- 2012/09/15 06:00 [medline]
+AID - S0022-2011(12)00063-8 [pii]
+AID - 10.1016/j.jip.2012.03.006 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2012 Jun;110(2):174-83. doi: 10.1016/j.jip.2012.03.006. Epub 
+      2012 Mar 13.
+
+PMID- 22283514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120709
+LR  - 20120222
+IS  - 1520-5851 (Electronic)
+IS  - 0013-936X (Linking)
+VI  - 46
+IP  - 4
+DP  - 2012 Feb 21
+TI  - Multidimensional fluorescence fingerprinting for classification of shrimp by
+      location and species.
+PG  - 2276-82
+LID - 10.1021/es2037542 [doi]
+AB  - Parallel factor analysis with soft independent modeling by class analogy
+      (PARAFAC-SIMCA) was used to analyze fluorescence data from shrimp extracts
+      (organic and aqueous phases) to create classification schemes for two species of 
+      shrimp from four different countries. Twenty-four shrimp (six from each location:
+      Ecuador, Philippines, Thailand, and United States) were studied; two were
+      classified as statistical outliers. Using PARAFAC scores from the two aqueous
+      fluorescent components and the strongest four components from the organic phase, 
+      country of origin was correctly identified at the 95% confidence level for all 22
+      remaining specimens; three false positives, at lower confidence levels than the
+      true positives, were also indicated. A classification scheme which used all eight
+      fluorescent components reproduced the 22 correct classifications and reduced the 
+      number of false positives to one. Finally, a scheme using PARAFAC scores from the
+      two aqueous fluorescent components and the strongest four components from the
+      organic phase, designed to classify according to species, produced 22 correct
+      matches with no false positives. Spectral similarities between known chemical
+      species and the components identified by PARAFAC are suggested for most cases.
+      The results indicate that environmental effects appear in the fluorescence
+      fingerprints of shrimp collected in different locations; therefore, fluorescence 
+      measurements on shrimp have the potential to permit geographical classification
+      of shrimp or, conversely, to permit inferences to be made about the animal's
+      environment.
+FAU - Eaton, John K
+AU  - Eaton JK
+AD  - Department of Chemistry, Tufts University, 62 Talbot Avenue, Medford,
+      Massachusetts 02155, United States.
+FAU - Alcivar-Warren, Acacia
+AU  - Alcivar-Warren A
+FAU - Kenny, Jonathan E
+AU  - Kenny JE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120209
+PL  - United States
+TA  - Environ Sci Technol
+JT  - Environmental science & technology
+JID - 0213155
+SB  - IM
+MH  - Animals
+MH  - Ecuador
+MH  - Factor Analysis, Statistical
+MH  - Fluorescence
+MH  - Penaeidae/*classification
+MH  - Philippines
+MH  - Thailand
+MH  - United States
+EDAT- 2012/01/31 06:00
+MHDA- 2012/07/10 06:00
+CRDT- 2012/01/31 06:00
+PHST- 2012/01/31 06:00 [entrez]
+PHST- 2012/01/31 06:00 [pubmed]
+PHST- 2012/07/10 06:00 [medline]
+AID - 10.1021/es2037542 [doi]
+PST - ppublish
+SO  - Environ Sci Technol. 2012 Feb 21;46(4):2276-82. doi: 10.1021/es2037542. Epub 2012
+      Feb 9.
+
+PMID- 22235591
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120202
+LR  - 20120112
+IS  - 0177-5103 (Print)
+IS  - 0177-5103 (Linking)
+VI  - 97
+IP  - 1
+DP  - 2011 Nov 3
+TI  - Epidemiology and phylogenetic analysis of Taura syndrome virus in cultured
+      Pacific white shrimp Litopenaeus vannamei B. in Taiwan.
+PG  - 17-23
+LID - 10.3354/dao02407 [doi]
+AB  - Taura syndrome virus (TSV) has spread worldwide, causing significant economic
+      losses since Taura syndrome was first described in Ecuador in 1992. To determine 
+      the prevalence and impact of TSV infection on the shrimp farming industry in
+      Taiwan, Pacific white shrimp Litopenaeus vannamei B. were collected from 220
+      farms between 2004 and 2006 for viral detection by reverse transcription
+      polymerase chain reaction. Data showed that the overall TSV prevalence rate was
+      20% (43/220 farms). Comparing shrimp growth stages, TSV prevalence rates were 4% 
+      for postlarvae, 24% for juveniles, 24% for subadults, 32% for adults, and 5% for 
+      brooders. Among TSV-positive farms, average infection incidence was 35% in
+      postlarvae farms, 55% in juvenile farms, 39% in subadult farms, 31% in adult
+      farms, and 20% in brooder farms. Notably, TSV was also detected in Exopalaemon
+      orientis H. from 1 of 10 farms. Tail fans and appendages had red pigmentation,
+      which is characteristic of TSV infection. Of shrimp with pathological lesions,
+      100% had lesions on tail fans, 88% on appendages, and 80% in gills. Sequence
+      comparison using the TSV VP1 (structural protein) gene showed that 9 isolates
+      from the farms had 92.3 to 99.5% nucleotide sequence identity with strains in the
+      GenBank database from Taiwan (AF406789 and AY355310) and Venezuela (DQ212790).
+      This is the first broad epidemiological study of TSV infection in L. vannamei in 
+      Taiwan.
+FAU - Cheng, LiTing
+AU  - Cheng L
+AD  - Graduate Institute of Animal Vaccine, National Pingtung University of Science and
+      Technology, Pingtung 91201, Taiwan.
+FAU - Lin, Wen-Hui
+AU  - Lin WH
+FAU - Wang, Pei-Chyi
+AU  - Wang PC
+FAU - Tsai, Ming-An
+AU  - Tsai MA
+FAU - Ho, Ping-Yueh
+AU  - Ho PY
+FAU - Hsu, Jung-Pin
+AU  - Hsu JP
+FAU - Chern, Red-Shyong
+AU  - Chern RS
+FAU - Chen, Shih-Chu
+AU  - Chen SC
+LA  - eng
+SI  - GENBANK/AF406789
+SI  - GENBANK/AY355310
+SI  - GENBANK/DQ212790
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Dis Aquat Organ
+JT  - Diseases of aquatic organisms
+JID - 8807037
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Molecular Sequence Data
+MH  - *Penaeidae
+MH  - Phylogeny
+MH  - RNA Viruses/*genetics/isolation & purification
+MH  - Taiwan
+EDAT- 2012/01/13 06:00
+MHDA- 2012/02/03 06:00
+CRDT- 2012/01/13 06:00
+PHST- 2012/01/13 06:00 [entrez]
+PHST- 2012/01/13 06:00 [pubmed]
+PHST- 2012/02/03 06:00 [medline]
+AID - 10.3354/dao02407 [doi]
+PST - ppublish
+SO  - Dis Aquat Organ. 2011 Nov 3;97(1):17-23. doi: 10.3354/dao02407.
+
+PMID- 21215359
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110511
+LR  - 20220330
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 106
+IP  - 1
+DP  - 2011 Jan
+TI  - Virus diseases of farmed shrimp in the Western Hemisphere (the Americas): a
+      review.
+PG  - 110-30
+LID - 10.1016/j.jip.2010.09.012 [doi]
+AB  - Penaeid shrimp aquaculture is an important industry in the Americas, and the
+      industry is based almost entirely on the culture of the Pacific White Shrimp,
+      Litopenaeus vannamei. Western Hemisphere shrimp farmers in 14 countries in 2004
+      produced more than 200,000 metric tons of shrimp, generated more than $2 billion 
+      in revenue, and employed more than 500,000 people. Disease has had a major impact
+      on shrimp aquaculture in the Americas since it became a significant commercial
+      entity in the 1970s. Diseases due to viruses, rickettsial-like bacteria, true
+      bacteria, protozoa, and fungi have emerged as major diseases of farmed shrimp in 
+      the region. Many of the bacterial, fungal and protozoan caused diseases are
+      managed using improved culture practices, routine sanitation, and the use of
+      chemotherapeutics. However, the virus diseases have been far more problematic to 
+      manage and they have been responsible for the most costly epizootics. Examples
+      include the Taura syndrome pandemic that began in 1991-1992 when the disease
+      emerged in Ecuador, and the subsequent White Spot Disease pandemic that followed 
+      its introduction to Central America from Asia in 1999. Because of their
+      socioeconomic significance to shrimp farming, seven of the nine crustacean
+      diseases listed by the World Animal Organization (OIE) are virus diseases of
+      shrimp. Of the seven virus diseases of penaeid shrimp, five are native to the
+      Americas or have become enzootic following their introduction. The shrimp virus
+      diseases in the Americas are increasingly being managed by exclusion using a
+      combination of biosecurity and the practice of culturing domesticated specific
+      pathogen-free (SPF) stocks or specific pathogen-resistant (SPR) stocks. Despite
+      the significant challenges posed by disease, the shrimp farming industry of the
+      Americas has responded to the challenges posed by disease and it has developed
+      methods to manage its diseases and mature into a sustainable industry.
+CI  - Copyright A(c) 2010 Elsevier Inc. All rights reserved.
+FAU - Lightner, D V
+AU  - Lightner DV
+AD  - Aquaculture Pathology Laboratory, Department of Veterinary Science and
+      Microbiology, University of Arizona, Tucson, AZ 85721, USA. dvl@u.arizona.edu
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Americas
+MH  - Animals
+MH  - Aquaculture
+MH  - Geography
+MH  - Penaeidae/anatomy & histology/*virology
+MH  - Population Dynamics
+MH  - Viruses/isolation & purification/*pathogenicity
+PMC - PMC7172539
+EDAT- 2011/01/11 06:00
+MHDA- 2011/05/12 06:00
+CRDT- 2011/01/11 06:00
+PHST- 2011/01/11 06:00 [entrez]
+PHST- 2011/01/11 06:00 [pubmed]
+PHST- 2011/05/12 06:00 [medline]
+AID - S0022-2011(10)00216-8 [pii]
+AID - 10.1016/j.jip.2010.09.012 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2011 Jan;106(1):110-30. doi: 10.1016/j.jip.2010.09.012.
+
+PMID- 19873829
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091124
+LR  - 20200930
+IS  - 0899-7659 (Print)
+IS  - 0899-7659 (Linking)
+VI  - 21
+IP  - 2
+DP  - 2009 Jun
+TI  - Virulence variation of white spot syndrome virus in Pacific white shrimp
+      Litopenaeus vannamei.
+PG  - 82-90
+LID - 10.1577/H08-012.1 [doi]
+AB  - The virulence of seven geographic isolates of white spot syndrome virus (WSSV;
+      genus Whispovirus; China [strain CH1995], Nicaragua [strain N2000], Honduras
+      [strain H2000], Ecuador [strains E-L1999 and E-LT2002], and Mexico [strains
+      M-M2001 and M-LP2001]) was compared using a series of challenge experiments, each
+      lasting 10 d. For each isolate, four quantified dilutions (10(-6), 10(7), 10(-8),
+      and 10(-9)) of a viral inoculum were prepared from WSSV-infected shrimp tissue.
+      Each viral inoculum was injected into 10 specific pathogen-free juvenile Pacific 
+      white shrimp Litopenaeus vannamei (0.25-1.50 g); controls received injections of 
+      marine crustacean physiological saline (3.2%). The minimum dose of viral inoculum
+      that killed 50% of injected shrimp (LD50) was calculated for dilution, tissue
+      concentration, and viral DNA amount. The CH1995 and M-M2001 isolates were the
+      least virulent, with LD50 values of 10(-6) to 10(-7) of viral inoculum. The
+      isolates could be grouped into three virulence clusters (CH1995 and M-M2001;
+      N2000 and E-LT2002; and H2000, E-L1999, and M-LP2001). Virulence clusters were
+      not altered by LD50 values based on viral DNA concentration, although a slight
+      shifting of order in regards to virulence was seen among the three most virulent 
+      isolates (E-L1999, H2000, and M-LP2001). Overall, results indicate that there is 
+      a measurable virulence difference among WSSV isolates, which may correspond to
+      geographical region.
+FAU - Laramore, S E
+AU  - Laramore SE
+AD  - Center for Aquaculture and Stock Enhancement, Harbor Branch Oceanographic
+      Institute, Florida Atlantic University, Fort Pierce, Florida 34946, USA.
+      slaramo1@hboi.fau.edu
+FAU - Scarpa, J
+AU  - Scarpa J
+FAU - Laramore, C R
+AU  - Laramore CR
+FAU - Lin, J
+AU  - Lin J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Aquat Anim Health
+JT  - Journal of aquatic animal health
+JID - 9884881
+SB  - IM
+MH  - Animals
+MH  - *Penaeidae
+MH  - Virulence
+MH  - White spot syndrome virus 1/classification/*pathogenicity
+EDAT- 2009/10/31 06:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/10/31 06:00
+PHST- 2009/10/31 06:00 [entrez]
+PHST- 2009/10/31 06:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - 10.1577/H08-012.1 [doi]
+PST - ppublish
+SO  - J Aquat Anim Health. 2009 Jun;21(2):82-90. doi: 10.1577/H08-012.1.
+
+PMID- 19754165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100128
+LR  - 20090916
+IS  - 1520-5118 (Electronic)
+IS  - 0021-8561 (Linking)
+VI  - 57
+IP  - 18
+DP  - 2009 Sep 23
+TI  - Determination of the country of origin of farm-raised shrimp (family penaeide)
+      using trace metal profiling and multivariate statistics.
+PG  - 8244-9
+LID - 10.1021/jf901658f [doi]
+AB  - The role of Customs and Border Protection on shrimp importations into the United 
+      States is discussed. The focus of this work is to present evidence that the
+      comparison of trace metal data from an imported shrimp sample to an authentic
+      reference database using multivariate statistics produces an accurate geographic 
+      location of the sample. The authentic reference database includes data from more 
+      than 100 sampling sites spread over eight countries along with the accuracy of
+      each site relative to its known geographic origin. Potential sources of
+      bioaccumulation are briefly discussed; however, it is beyond the scope of this
+      work to provide scientific verification of the mechanism for trace metal uptake. 
+      Three examples of imported shrimp are provided for demonstrating the exact
+      procedure for determining their true countries of origin.
+FAU - Smith, Ralph G
+AU  - Smith RG
+AD  - U.S. Customs and Border Protection Laboratory, Savannah, Georgia 31408, USA.
+FAU - Watts, Carson A
+AU  - Watts CA
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Trace Elements)
+SB  - IM
+MH  - Animals
+MH  - *Aquaculture
+MH  - Asia
+MH  - Ecuador
+MH  - Mexico
+MH  - *Multivariate Analysis
+MH  - Penaeidae/chemistry/*classification
+MH  - Reference Values
+MH  - Sensitivity and Specificity
+MH  - Trace Elements/*analysis
+EDAT- 2009/09/17 06:00
+MHDA- 2010/01/29 06:00
+CRDT- 2009/09/17 06:00
+PHST- 2009/09/17 06:00 [entrez]
+PHST- 2009/09/17 06:00 [pubmed]
+PHST- 2010/01/29 06:00 [medline]
+AID - 10.1021/jf901658f [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2009 Sep 23;57(18):8244-9. doi: 10.1021/jf901658f.
+
+PMID- 16027992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060724
+LR  - 20181113
+IS  - 1436-2228 (Print)
+IS  - 1436-2228 (Linking)
+VI  - 7
+IP  - 5
+DP  - 2005 Sep-Oct
+TI  - Development of EST-SSR markers by data mining in three species of shrimp:
+      Litopenaeus vannamei, Litopenaeus stylirostris, and Trachypenaeus birdy.
+PG  - 554-69
+AB  - We report on the data mining of publicly available Litopenaeus vannamei expressed
+      sequence tags (ESTs) to generate simple sequence repeat (SSRs) markers and on
+      their transferability between related Penaeid shrimp species. Repeat motifs were 
+      found in 3.8% of the evaluated ESTs at a frequency of one repeat every 7.8 kb of 
+      sequence data. A total of 206 primer pairs were designed, and 112 loci were
+      amplified with the highest success in L. vannamei. A high percentage (69%) of
+      EST-SSRs were transferable within the genus Litopenaeus. More than half of the
+      amplified products were polymorphic in a small testing panel of L. vannamei.
+      Evaluation of those primers in a larger testing panel showed that 72% of the
+      markers fit Hardy-Weinberg equilibrium, which shows their utility for population 
+      genetic analysis. Additionally, a set of 26 of the EST-SSRs were evaluated for
+      Mendelian segregation. A high percentage of monomorphic markers (46%) proved to
+      be polymorphic by singles-stranded conformational polymorphism analysis. Because 
+      of the high number of ESTs available in public databases, a data mining approach 
+      similar to the one outlined here might yield high numbers of SSR markers in many 
+      animal taxa.
+FAU - Perez, Franklin
+AU  - Perez F
+AD  - Fundacion CENAIM-ESPOL, Km. 30.5 Via Perimetral, Campus Politecnico, Guayaquil,
+      Ecuador. franklin@cenaim.espol.edu.ec
+FAU - Ortiz, Juan
+AU  - Ortiz J
+FAU - Zhinaula, Mariuxi
+AU  - Zhinaula M
+FAU - Gonzabay, Cesar
+AU  - Gonzabay C
+FAU - Calderon, Jorge
+AU  - Calderon J
+FAU - Volckaert, Filip A M J
+AU  - Volckaert FA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20050714
+PL  - United States
+TA  - Mar Biotechnol (NY)
+JT  - Marine biotechnology (New York, N.Y.)
+JID - 100892712
+RN  - 0 (DNA Primers)
+RN  - 0 (Genetic Markers)
+SB  - IM
+MH  - Animals
+MH  - Chromosome Mapping
+MH  - DNA Primers/genetics
+MH  - *Databases, Nucleic Acid
+MH  - Expressed Sequence Tags/*chemistry
+MH  - *Genetic Markers
+MH  - Genetic Variation
+MH  - Genetics, Population
+MH  - Microsatellite Repeats/*genetics
+MH  - Models, Biological
+MH  - Penaeidae/*genetics
+MH  - Polymorphism, Genetic
+MH  - Polymorphism, Single-Stranded Conformational
+MH  - Sequence Analysis, DNA
+MH  - Sequence Homology, Nucleic Acid
+EDAT- 2005/07/20 09:00
+MHDA- 2006/07/25 09:00
+CRDT- 2005/07/20 09:00
+PHST- 2004/08/04 00:00 [received]
+PHST- 2005/02/08 00:00 [accepted]
+PHST- 2005/07/20 09:00 [pubmed]
+PHST- 2006/07/25 09:00 [medline]
+PHST- 2005/07/20 09:00 [entrez]
+AID - 10.1007/s10126-004-5099-1 [doi]
+PST - ppublish
+SO  - Mar Biotechnol (NY). 2005 Sep-Oct;7(5):554-69. doi: 10.1007/s10126-004-5099-1.
+      Epub 2005 Jul 14.
+
+PMID- 12005240
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020815
+LR  - 20031114
+IS  - 0177-5103 (Print)
+IS  - 0177-5103 (Linking)
+VI  - 48
+IP  - 2
+DP  - 2002 Mar 11
+TI  - Clearing mechanisms of Vibrio vulnificus biotype I in the black tiger shrimp
+      Penaeus monodon.
+PG  - 91-9
+AB  - Vibrio species' infections are a common sequelae to environmental stress or other
+      disease processes in shrimp, but the mechanism by which the shrimp eliminate the 
+      bacteria is poorly understood. In this study, the penetration, fate and the
+      clearing of V. vulnificus were investigated in Penaeus monodon. A bacterial
+      disease isolate from a shrimp farm was identified as V. vulnificus biotype I.
+      Polyclonal antiserum was raised in rabbits against the bacterium and the
+      specificity was verified by ELISA and immunoblot against a range of Vibrio spp.
+      and other gram-negative bacteria. The bacteria were then administered to P.
+      monodon juveniles by injection, immersion and oral intubation. An indirect
+      immunoperoxidase technique was employed in a time course study to follow the
+      bacteria and bacterial antigens in the tissue of the shrimp. Bacteria were
+      cleared by a common route, regardless of the method of administration.
+      Observations in immersion challenge were similar to a combination of those for
+      oral and injection challenges. With immersion, bacteria entered the shrimp
+      through damaged cuticle or via insertion points of cuticular setae. Shortly after
+      entry, whole bacterial cells were observed in the haemolymph and connective
+      tissue. They were either phagocytosed by haemocytes, or broken down outside host 
+      cells. Haemocytes containing bacterial cells or antigens (HCB) were observed in
+      the connective tissue and haemolymph. HCB accumulated around the hepatopancreas, 
+      midgut, midgut-caecum, gills, heart and lymphoid organ. Free bacterial antigens
+      also accumulated in the heart and lymphoid organ. Bacteria entering through the
+      mouth by oral intubation or immersion were broken down so that only soluble or
+      very fine particles entered the hepatopancreas. Bacterial antigens passed through
+      the hepatopancreas into the haemolymph. Antigens were initially observed in the
+      haemolymph sinuses and subsequently accumulated in the heart and lymphoid organ. 
+      Bacterial antigens were released from the shrimp, initially through the gills and
+      subsequently through hepatopancreatic B-cells, branchial podocytes and
+      sub-cuticular podocytes.
+FAU - Alday-Sanz, V
+AU  - Alday-Sanz V
+AD  - Diagnostic Unit, Center for Aquaculture Services, Guayaquil, Ecuador.
+FAU - Roque, A
+AU  - Roque A
+FAU - Turnbull, J F
+AU  - Turnbull JF
+LA  - eng
+PT  - Journal Article
+PL  - Germany
+TA  - Dis Aquat Organ
+JT  - Diseases of aquatic organisms
+JID - 8807037
+RN  - 0 (Antigens, Bacterial)
+SB  - IM
+MH  - Administration, Oral
+MH  - Animals
+MH  - Antigens, Bacterial/*analysis
+MH  - Enzyme-Linked Immunosorbent Assay/veterinary
+MH  - Hemocytes/immunology/*microbiology
+MH  - Immersion
+MH  - Immunoblotting/veterinary
+MH  - Immunoenzyme Techniques/veterinary
+MH  - Penaeidae/immunology/*microbiology
+MH  - Phagocytosis
+MH  - Rabbits
+MH  - Tissue Distribution
+MH  - Vibrio/*immunology
+EDAT- 2002/05/15 10:00
+MHDA- 2002/08/16 10:01
+CRDT- 2002/05/15 10:00
+PHST- 2002/05/15 10:00 [pubmed]
+PHST- 2002/08/16 10:01 [medline]
+PHST- 2002/05/15 10:00 [entrez]
+AID - 10.3354/dao048091 [doi]
+PST - ppublish
+SO  - Dis Aquat Organ. 2002 Mar 11;48(2):91-9. doi: 10.3354/dao048091.
+
+PMID- 8890382
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970213
+LR  - 20191210
+IS  - 0253-1933 (Print)
+IS  - 0253-1933 (Linking)
+VI  - 15
+IP  - 2
+DP  - 1996 Jun
+TI  - Epizootiology, distribution and the impact on international trade of two penaeid 
+      shrimp viruses in the Americas.
+PG  - 579-601
+AB  - Marine penaeid shrimp are effected by approximately twenty viruses, the majority 
+      of which were discovered as a result of their negative effects on aquaculture. In
+      the Americas, infectious hypodermal and haematopoietic necrosis (IHHN) virus and 
+      Taura syndrome (TS) virus have had a significant negative impact on aquaculture
+      industries and, in one instance, on a commercial fishery. Both viruses have
+      become widely distributed as a consequence of the movement of host stocks for
+      aquaculture. IHHN virus (IHHNV) causes catastrophic losses in cultured and wild
+      Penaeus stylirostris. In marked contrast, P. vannamei is relatively resistant to 
+      IHHN but infection results, nonetheless, in poor culture performance. TS virus
+      (TSV) is the 'mirror image' of IHHNV in its effect on P. stylirostris and P.
+      vannamei. TSV causes catastrophic losses in P. vannamei, whereas P. stylirostris 
+      is highly resistant to TS. In the less than three years since the discovery of
+      TSV in Ecuador in 1992, the virus has spread rapidly and caused massive
+      production losses in most shrimp-growing countries in the Americas.
+FAU - Lightner, D V
+AU  - Lightner DV
+AD  - Department of Veterinary Science, University of Arizona, Tucson 85721, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+PL  - France
+TA  - Rev Sci Tech
+JT  - Revue scientifique et technique (International Office of Epizootics)
+JID - 8712301
+SB  - IM
+MH  - Animals
+MH  - Commerce
+MH  - Decapoda/*virology
+MH  - International Cooperation
+MH  - Parvoviridae/*physiology
+MH  - Picornaviridae/*physiology
+MH  - Specific Pathogen-Free Organisms
+RF  - 80
+EDAT- 1996/06/01 00:00
+MHDA- 1996/06/01 00:01
+CRDT- 1996/06/01 00:00
+PHST- 1996/06/01 00:00 [pubmed]
+PHST- 1996/06/01 00:01 [medline]
+PHST- 1996/06/01 00:00 [entrez]
+AID - 10.20506/rst.15.2.944 [doi]
+PST - ppublish
+SO  - Rev Sci Tech. 1996 Jun;15(2):579-601. doi: 10.20506/rst.15.2.944.
+
+PMID- 7622592
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19950829
+LR  - 20220215
+IS  - 0021-9533 (Print)
+IS  - 0021-9533 (Linking)
+VI  - 108 ( Pt 3)
+DP  - 1995 Mar
+TI  - Characterisation of shrimp haemocytes and plasma components by monoclonal
+      antibodies.
+PG  - 1043-50
+AB  - Various haemolymph components of the shrimp Penaeus japonicus were identified and
+      characterised by monoclonal antibodies. Three groups of monoclonal antibodies
+      were raised. Their reactivity to haemocyte types and/or secreted molecules was
+      determined by immunofluorescence and the molecular masses of the antigens were
+      analysed by western-blotting. A 170 kDa protein, in reducing conditions, was
+      recognized by four panhaemocytic monoclonal antibodies from group 1. This protein
+      was present both in the plasma and in the haemocytes from which it appears to be 
+      secreted. The shrimp haemocytes were separated by isopycnic centrifugation on a
+      Percoll gradient and the different subpopulations were antigenically analysed
+      using the two monoclonal antibodies, 40E2-2A and 40E10-2B, from group 2. The
+      granular cells were labelled by 40E2-2A which was specific for a protein of 142
+      kDa also present in plasma. By comparison, the 40E10-2B monoclonal antibody was
+      assumed to be the marker for small hyaline and semigranular cells since the
+      granular ones were not labelled. Moreover, the antigen immunoprecipitated by this
+      monoclonal antibody was shown to have different molecular masses of 250, 150, 66 
+      and 27 kDa under nonreducing conditions. It appeared to be secreted by the
+      haemocytes. Some plasma proteins were recognized by the third group of monoclonal
+      antibodies. The antibodies, designated 41D11-3A, 42C11-3B and 42E8-3C, all
+      immunoprecipitated a protein with an apparent molecular mass of 180 kDa under
+      reduced conditions. The 44E6-3D antibody was specific for a 75 kDa protein under 
+      reduced conditions and was shown to be immunoreactive against P. japonicus
+      haemocyanin extract.(ABSTRACT TRUNCATED AT 250 WORDS)
+FAU - Rodriguez, J
+AU  - Rodriguez J
+AD  - CENAIM-ESPOL, Guayaquil, Ecuador.
+FAU - Boulo, V
+AU  - Boulo V
+FAU - Mialhe, E
+AU  - Mialhe E
+FAU - Bachere, E
+AU  - Bachere E
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Cell Sci
+JT  - Journal of cell science
+JID - 0052457
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antigens)
+RN  - 0 (Proteins)
+RN  - 9013-72-3 (Hemocyanins)
+SB  - IM
+MH  - Animals
+MH  - *Antibodies, Monoclonal
+MH  - Antigens/chemistry
+MH  - Cross Reactions
+MH  - Decapoda/*immunology
+MH  - Female
+MH  - Fluorescent Antibody Technique
+MH  - Hemocyanins/chemistry/immunology
+MH  - Hemocytes/classification/*immunology
+MH  - Hemolymph/chemistry/immunology
+MH  - Hybridomas/immunology
+MH  - Male
+MH  - Molecular Weight
+MH  - Proteins/chemistry/immunology
+MH  - Species Specificity
+EDAT- 1995/03/01 00:00
+MHDA- 1995/03/01 00:01
+CRDT- 1995/03/01 00:00
+PHST- 1995/03/01 00:00 [pubmed]
+PHST- 1995/03/01 00:01 [medline]
+PHST- 1995/03/01 00:00 [entrez]
+AID - 10.1242/jcs.108.3.1043 [doi]
+PST - ppublish
+SO  - J Cell Sci. 1995 Mar;108 ( Pt 3):1043-50. doi: 10.1242/jcs.108.3.1043.
+
+PMID- 31113141
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1944-9097 (Electronic)
+IS  - 0362-028X (Linking)
+VI  - 57
+IP  - 2
+DP  - 1994 Feb
+TI  - Fresh and Frozen Shrimp: A Profile of Filth, Microbiologica! Contamination, and
+      Decomposition.
+PG  - 154-158
+LID - 10.4315/0362-028X-57.2.154 [doi]
+AB  - A 2-year nationwide survey was conducted by the Food and Drug Administration to
+      provide current information about filth, decomposition, and microbiological
+      contamination of domestic and imported fresh and frozen shrimp. Whole or
+      equivalent filth insects, mostly ants, were found in 14.4% of the samples. Of
+      countries contributing at least 10 samples for filth analysis, India had the
+      highest percentage positive for filth insects (45.5%); the United States had the 
+      lowest (6.3%). Filth insect fragments were present in 5.4% of the samples.
+      Incidental insects were present in 6.3% of the samples, with flies the most
+      commonly found. Of countries contributing at least 10 samples for filth analysis,
+      India had the highest percentage positive for incidental insects (27.3%); Ecuador
+      had the lowest (2.3%). Unidentified insect fragments were found in 33.3% of the
+      samples; cockroach excreta pellets were present in 2.1%, rat or mouse hairs in
+      5.7%, and other striated animal hairs in 15.3%. Of countries contributing at
+      least 10 samples for filth analysis, the Philippines had the highest percentages 
+      positive (30.0 and 50.0%) for rat or mouse hairs and other striated hairs,
+      respectively; Malaysia was close behind with 23.1 and 46.2%. Samples from the
+      United States had the lowest percentage positive for rat or mouse hairs (0.9%)
+      and other striated hairs (7.2%). Listeria spp. were found in 6.8% of the samples;
+      Salmonella spp. were found in 8.1%. Some level of decomposition was observed in
+      15.4% of the samples tested organoleptically.
+FAU - Gecan, John S
+AU  - Gecan JS
+AD  - Office of Plant and Dairy Foods and Beverages, Division of Microanalytical
+      Evaluations, Food and Drug Administration, Washington, DC 20204.
+FAU - Bandler, Ruth
+AU  - Bandler R
+AD  - Office of Plant and Dairy Foods and Beverages, Division of Microanalytical
+      Evaluations, Food and Drug Administration, Washington, DC 20204.
+FAU - Staruszkiewicz, Walter F
+AU  - Staruszkiewicz WF
+AD  - Office of Seafood, Division of Science and Applied Technology, Food and Drug
+      Administration, Washington, DC 20204.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Food Prot
+JT  - Journal of food protection
+JID - 7703944
+EDAT- 1994/02/01 00:00
+MHDA- 1994/02/01 00:01
+CRDT- 2019/05/23 06:00
+PHST- 2019/05/23 06:00 [entrez]
+PHST- 1994/02/01 00:00 [pubmed]
+PHST- 1994/02/01 00:01 [medline]
+AID - 10.4315/0362-028X-57.2.154 [doi]
+PST - ppublish
+SO  - J Food Prot. 1994 Feb;57(2):154-158. doi: 10.4315/0362-028X-57.2.154.
+
+PMID- 31113139
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1944-9097 (Electronic)
+IS  - 0362-028X (Linking)
+VI  - 57
+IP  - 2
+DP  - 1994 Feb
+TI  - Comparison of the Microbial Quality of Raw Shrimp from China, Ecuador, or Mexico 
+      at Both Wholesale and Retail Levels.
+PG  - 150-153
+LID - 10.4315/0362-028X-57.2.150 [doi]
+AB  - Aerobic plate counts (APC), Listeria spp., and Vibrio spp. and antibiotic
+      resistance patterns of Vibrio spp. were determined for imported shrimp from
+      China, Ecuador, and Mexico obtained from wholesale/frozen and retail/previously
+      frozen markets. Statistically significant differences in APC were observed among 
+      source countries and wholesale/frozen versus retail/previously frozen samples.
+      Wholesale/frozen shrimp products were consistently excellent quality with respect
+      to APC; higher contamination levels were observed in retail/previously frozen
+      samples. Listeria spp. and L. monocytogenes were isolated from 16.7 and 6.7% of
+      shrimp samples, respectively. Vibrio spp. were present in 63.3% of the samples,
+      more often isolated from shrimp from Mexico or China than Ecuador. The majority
+      of isolates were identified as V. parahaemolyticus (36.7%), V. alginolyticus
+      (26.7%), or V. vulniftcus (16.7%), and 53.7% were resistant to at least one
+      antibiotic. These data reveal that important differences in microbial quality
+      occur in raw shrimp products as a function of source and between retail and
+      Wholesale products.
+FAU - Berry, Thomas M
+AU  - Berry TM
+AD  - Department of Nutritional Sciences, University of Arizona, Tucson, Arizona 85721.
+FAU - Park, Douglas L
+AU  - Park DL
+AD  - Department of Nutritional Sciences, University of Arizona, Tucson, Arizona 85721.
+FAU - Lightner, Donald V
+AU  - Lightner DV
+AD  - Department of Nutritional Sciences, University of Arizona, Tucson, Arizona 85721.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Food Prot
+JT  - Journal of food protection
+JID - 7703944
+EDAT- 1994/02/01 00:00
+MHDA- 1994/02/01 00:01
+CRDT- 2019/05/23 06:00
+PHST- 2019/05/23 06:00 [entrez]
+PHST- 1994/02/01 00:00 [pubmed]
+PHST- 1994/02/01 00:01 [medline]
+AID - 10.4315/0362-028X-57.2.150 [doi]
+PST - ppublish
+SO  - J Food Prot. 1994 Feb;57(2):150-153. doi: 10.4315/0362-028X-57.2.150.
